@@ -2,7 +2,8 @@
 
 - slug: `portfolio-cosmic`
 - scope: page
-- source: free (category "Portfolio")
+- theme: dark
+- source folder in the original repo: free (category "Portfolio")
 - summary: Dark portfolio page: loading screen, video hero with floating navbar, further sections. GSAP + Framer Motion + hls.js, Inter + Instrument Serif italic.
 
 Everything below the line is the original prompt, verbatim.

@@ -2,7 +2,8 @@
 
 - slug: `designpro-academy`
 - scope: hero
-- source: free (category "Hero Section")
+- theme: dark
+- source folder in the original repo: free (category "Hero Section")
 - summary: Design-education hero "DesignPro". Black with video background, pill nav container, two-column top section.
 
 Everything below the line is the original prompt, verbatim.

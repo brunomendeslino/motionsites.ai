@@ -2,7 +2,8 @@
 
 - slug: `e-commerce-website`
 - scope: page
-- source: free + pro (category "Landing Page")
+- theme: light
+- source folder in the original repo: free + pro (category "Landing Page")
 - summary: Health/wellness shop landing. Near-white, fully rounded (pill) radii, system fonts, shadcn/ui. No media needed.
 
 Everything below the line is the original prompt, verbatim.

@@ -2,7 +2,8 @@
 
 - slug: `bionova-biotech`
 - scope: hero
-- source: free + pro (category "SaaS")
+- theme: light
+- source folder in the original repo: free + pro (category "SaaS")
 - summary: Biotech consulting hero "BIONOVA", exactly 100vh. White background, Poppins, soft-blue pill buttons, HLS video, blur fade-up entrances.
 
 Everything below the line is the original prompt, verbatim.

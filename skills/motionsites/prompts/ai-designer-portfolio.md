@@ -2,7 +2,8 @@
 
 - slug: `ai-designer-portfolio`
 - scope: page
-- source: free (category "Landing Page")
+- theme: light
+- source folder in the original repo: free (category "Landing Page")
 - summary: Creative-studio portfolio "V Vortex": hero, marquee, testimonial quote, pricing cards, projects, footer. White background with dark-teal ink (#051A24), PP Neue Montreal + PP Mondwest accent words.
 
 Everything below the line is the original prompt, verbatim.

@@ -2,7 +2,8 @@
 
 - slug: `ai-designer-agency`
 - scope: page
-- source: free + pro (category "Landing Page")
+- theme: dark
+- source folder in the original repo: free + pro (category "Landing Page")
 - summary: AI web-design agency "VIRALMEDIA", 7 sections: fixed navbar, hero, scroll-reveal about text, 2x2 work grid, parallax video showcase, HLS video CTA, footer. Pure black, liquid glass, Barlow + Instrument Serif italic.
 
 Everything below the line is the original prompt, verbatim.

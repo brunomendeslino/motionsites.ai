@@ -2,7 +2,8 @@
 
 - slug: `glassmorphism-agency-hero`
 - scope: hero
-- source: free + pro (category "Agency")
+- theme: dark
+- source folder in the original repo: free + pro (category "Agency")
 - summary: Dark glassmorphism hero with purple/pink gradients (#FA93FA to #983AD6), HLS hero video, animated logo cloud. Tailwind v4, Motion.
 
 Everything below the line is the original prompt, verbatim.

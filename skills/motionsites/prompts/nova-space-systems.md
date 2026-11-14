@@ -2,7 +2,8 @@
 
 - slug: `nova-space-systems`
 - scope: page
-- source: free + pro (category "Landing Page")
+- theme: dark
+- source folder in the original repo: free + pro (category "Landing Page")
 - summary: Aerospace landing "NOVA". Brutally minimal black/white, zero border radius, Space Grotesk only, shadcn/ui.
 
 Everything below the line is the original prompt, verbatim.

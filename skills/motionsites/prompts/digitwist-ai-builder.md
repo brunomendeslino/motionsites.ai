@@ -2,7 +2,8 @@
 
 - slug: `digitwist-ai-builder`
 - scope: hero
-- source: free (category "SaaS")
+- theme: dark
+- source folder in the original repo: free (category "SaaS")
 - summary: AI website-builder hero. Dark, HLS video with decorative gradients, Motion animations. Headline "Design at the speed of thought".
 
 Everything below the line is the original prompt, verbatim.

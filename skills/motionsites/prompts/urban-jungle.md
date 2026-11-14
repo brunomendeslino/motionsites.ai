@@ -2,7 +2,8 @@
 
 - slug: `urban-jungle`
 - scope: hero
-- source: pro (category "Landing Page")
+- theme: dark
+- source folder in the original repo: pro (category "Landing Page")
 - summary: Scroll-driven hero on a 500vh root: GSAP ScrollTrigger + ScrollToPlugin, hls.js, custom Dirtyline display font. Black, React 19 + Tailwind v4.
 
 Everything below the line is the original prompt, verbatim.

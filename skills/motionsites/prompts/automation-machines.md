@@ -2,7 +2,8 @@
 
 - slug: `automation-machines`
 - scope: hero
-- source: free + pro (category "Hero Section")
+- theme: dark
+- source folder in the original repo: free + pro (category "Hero Section")
 - summary: Futuristic full-viewport hero with a Spline 3D scene behind the content. Black/white, React 19 + Tailwind v4 + Motion.
 
 Everything below the line is the original prompt, verbatim.

@@ -2,7 +2,8 @@
 
 - slug: `wealth-video-hero`
 - scope: hero
-- source: free + pro (category "Fintech")
+- theme: dark
+- source folder in the original repo: free + pro (category "Fintech")
 - summary: Wealth-management hero. Black, video background, glass pill tag. Headline "Build Wealth That Lasts Generations".
 
 Everything below the line is the original prompt, verbatim.

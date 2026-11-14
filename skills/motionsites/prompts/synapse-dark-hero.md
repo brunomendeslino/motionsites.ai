@@ -2,7 +2,8 @@
 
 - slug: `synapse-dark-hero`
 - scope: hero
-- source: free + pro (category "SaaS")
+- theme: dark
+- source folder in the original repo: free + pro (category "SaaS")
 - summary: Solid-black hero with blurred-glass navbar, row of glass "Integrated with" badges, video and a static logo row. Framer Motion.
 
 Everything below the line is the original prompt, verbatim.

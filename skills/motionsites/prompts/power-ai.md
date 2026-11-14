@@ -2,7 +2,8 @@
 
 - slug: `power-ai`
 - scope: hero
-- source: free (category "Hero Section")
+- theme: dark
+- source folder in the original repo: free (category "Hero Section")
 - summary: Dark full-screen video hero with navbar, headline, CTA and bottom logo marquee. Geist + General Sans.
 
 Everything below the line is the original prompt, verbatim.

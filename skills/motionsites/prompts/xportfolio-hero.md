@@ -2,7 +2,8 @@
 
 - slug: `xportfolio-hero`
 - scope: hero
-- source: free + pro (category "Hero Section")
+- theme: light
+- source folder in the original repo: free + pro (category "Hero Section")
 - summary: Brand-design agency "Brandly", one viewport: fullscreen video, Inter + Anton. Headline "BUILDING / BRANDS THAT / RESONATE".
 
 Everything below the line is the original prompt, verbatim.

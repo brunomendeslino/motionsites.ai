@@ -2,7 +2,8 @@
 
 - slug: `weblex-dark-hero`
 - scope: hero
-- source: free + pro (category "Landing Page")
+- theme: dark
+- source folder in the original repo: free + pro (category "Landing Page")
 - summary: Dark website-builder hero: transparent navbar, bottom-aligned content, video with requestAnimationFrame fade loop, green accent.
 
 Everything below the line is the original prompt, verbatim.

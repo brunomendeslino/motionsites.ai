@@ -2,7 +2,8 @@
 
 - slug: `framelix-3d-studios`
 - scope: page
-- source: free + pro (category "Agency")
+- theme: dark
+- source folder in the original repo: free + pro (category "Agency")
 - summary: Motion-studio landing "Framelix 3D": navbar, hero, marquee banner, shipping section. Pure black, Inter, pill radii, Framer Motion.
 
 Everything below the line is the original prompt, verbatim.

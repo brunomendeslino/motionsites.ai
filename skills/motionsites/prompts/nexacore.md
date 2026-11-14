@@ -2,7 +2,8 @@
 
 - slug: `nexacore`
 - scope: page
-- source: pro (category "Landing Page")
+- theme: mixed (dark hero, light sections)
+- source folder in the original repo: pro (category "Landing Page")
 - summary: Enterprise-infrastructure landing "NexaCore": shrinking white navbar, video hero, trusted, freedom and precision sections. Mazzard H font, navy/lavender with purple #c86fff, HLS.
 
 Everything below the line is the original prompt, verbatim.

@@ -2,7 +2,8 @@
 
 - slug: `pro-ai-deck`
 - scope: deck
-- source: pro (category "Presentation")
+- theme: dark
+- source folder in the original repo: pro (category "Presentation")
 - summary: 7-slide studio pitch deck with swipe/scroll/keyboard navigation and animated transitions. Motion, hls.js, Instrument Serif.
 
 Everything below the line is the original prompt, verbatim.

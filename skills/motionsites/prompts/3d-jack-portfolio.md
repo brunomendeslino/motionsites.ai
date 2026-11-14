@@ -2,8 +2,9 @@
 
 - slug: `3d-jack-portfolio`
 - scope: page
-- source: pro (category "Portfolio")
-- summary: 3D-creator portfolio "Jack": hero, marquee, about, services, projects. Dark #0C0C0C, Kanit at heavy weights.
+- theme: dark
+- source folder in the original repo: pro (category "Portfolio")
+- summary: 3D-creator portfolio "Jack": hero, marquee, about, services, projects. Dark #0C0C0C, Kanit.
 
 Everything below the line is the original prompt, verbatim.
 

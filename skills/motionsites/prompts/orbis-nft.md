@@ -2,7 +2,8 @@
 
 - slug: `orbis-nft`
 - scope: page
-- source: free (category "Landing Page")
+- theme: dark
+- source folder in the original repo: free (category "Landing Page")
 - summary: NFT landing "Orbis.Nft", 4 sections: hero, intro, collection grid, CTA. Dark space theme, Anton + Condiment script, liquid glass, video backgrounds.
 
 Everything below the line is the original prompt, verbatim.

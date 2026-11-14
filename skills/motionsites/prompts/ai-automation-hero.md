@@ -2,7 +2,8 @@
 
 - slug: `ai-automation-hero`
 - scope: hero
-- source: free + pro (category "AI / SaaS")
+- theme: dark
+- source folder in the original repo: free + pro (category "AI / SaaS")
 - summary: AI/SaaS hero, content left-aligned and vertically centred over an HLS video. Dark purple-black #070612.
 
 Everything below the line is the original prompt, verbatim.

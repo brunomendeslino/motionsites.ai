@@ -2,7 +2,8 @@
 
 - slug: `terra-geo-map`
 - scope: hero
-- source: free + pro (category "SaaS")
+- theme: light
+- source folder in the original repo: free + pro (category "SaaS")
 - summary: Geo-mapping SaaS "Terra". Light, Inter, blue #2E7DF3, dotted selection-box SVG around one headline word, product video under the CTA.
 
 Everything below the line is the original prompt, verbatim.

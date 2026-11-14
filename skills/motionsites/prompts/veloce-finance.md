@@ -2,8 +2,9 @@
 
 - slug: `veloce-finance`
 - scope: page
-- source: pro (category "Landing Page")
-- summary: Fintech app "veloce", 4 sections. Deep navy #00041F with copper #B56939 and a custom brand gradient, Manrope, Framer Motion.
+- theme: light
+- source folder in the original repo: pro (category "Landing Page")
+- summary: Fintech app "veloce", 4 sections. White page with deep-navy text (#00041F), copper accent #B56939 and a custom brand gradient, Manrope, Framer Motion. The only full finance page in the library.
 
 Everything below the line is the original prompt, verbatim.
 

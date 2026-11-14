@@ -2,7 +2,8 @@
 
 - slug: `neuralyn`
 - scope: hero
-- source: free (category "SaaS")
+- theme: dark
+- source folder in the original repo: free (category "SaaS")
 - summary: Analytics-dashboard SaaS "Neuralyn". Pure black, Inter + Instrument Serif italic accent word, shadcn/ui, Framer Motion.
 
 Everything below the line is the original prompt, verbatim.

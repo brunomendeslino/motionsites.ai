@@ -2,7 +2,8 @@
 
 - slug: `stellar-ai`
 - scope: hero
-- source: free (category "Hero Section")
+- theme: light
+- source folder in the original repo: free (category "Hero Section")
 - summary: "Stellar.ai" hero. White, Inter, fade-in-up entrances and an overlay dialog.
 
 Everything below the line is the original prompt, verbatim.

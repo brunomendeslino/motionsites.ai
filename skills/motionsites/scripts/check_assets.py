@@ -7,21 +7,26 @@ Usage:
 Each URL gets one plain HTTPS request for its first byte. Nothing is downloaded
 or cached. Output is one line per asset:
 
-    OK    MP4   200  https://...
+    OK    video 200  https://...
     DEAD  HLS   403  https://...
     ????  img   ---  https://...   (no answer: offline, blocked, or timed out)
 
-Exit code: 0 if every asset answered OK, 1 if any is DEAD, 2 if nothing could
-be verified (no network). Standard library only.
+Only URLs written in the spec are tested. A font or image the spec names
+without a URL is not covered.
+
+Exit code: 0 when the check ran (dead assets are an expected finding, not an
+error; read the lines), 2 if nothing could be verified (no network) or on bad
+usage. Standard library only.
 """
 import concurrent.futures
 import re
 import sys
 import urllib.error
+import urllib.parse
 import urllib.request
 from pathlib import Path
 
-URL_RE = re.compile(r"https?://[^\s\"'`)<>\]]+")
+URL_RE = re.compile(r"https?://[^\s\"'`)<>]+")
 SKIP = re.compile(r"fonts\.googleapis\.com|fonts\.gstatic\.com|w3\.org|tsconfig|localhost")
 TIMEOUT = 20
 
@@ -31,7 +36,7 @@ def kind(url):
     if path.endswith(".m3u8"):
         return "HLS"
     if path.endswith((".mp4", ".webm", ".mov")):
-        return "MP4"
+        return "video"
     if path.endswith((".otf", ".woff", ".woff2", ".ttf")) or "fontshare" in url or "onlinewebfonts" in url:
         return "font"
     if path.endswith((".png", ".jpg", ".jpeg", ".gif", ".svg", ".webp", ".avif")):
@@ -41,6 +46,13 @@ def kind(url):
     return "other"
 
 
+def clean(url):
+    url = url.rstrip(".,;:")
+    if url.endswith("]") and "[" not in url:   # keep "?f[]=" query strings intact
+        url = url.rstrip("]")
+    return url
+
+
 def collect(args):
     urls = []
     for arg in args:
@@ -48,14 +60,15 @@ def collect(args):
             urls.append(arg)
             continue
         text = Path(arg).read_text(encoding="utf-8", errors="replace")
-        urls += [u.rstrip(".,;:") for u in URL_RE.findall(text)]
+        urls += [clean(u) for u in URL_RE.findall(text)]
     seen = dict.fromkeys(u for u in urls if not SKIP.search(u))
     return list(seen)
 
 
 def probe(url):
     req = urllib.request.Request(
-        url, headers={"Range": "bytes=0-0", "User-Agent": "asset-link-check/1.0"}
+        urllib.parse.quote(url, safe=":/?&=%@,+~#;$!*'()-._"),
+        headers={"Range": "bytes=0-0", "User-Agent": "asset-link-check/1.0"},
     )
     try:
         with urllib.request.urlopen(req, timeout=TIMEOUT) as resp:
@@ -92,7 +105,10 @@ def main():
         return 2
     if unknown:
         print("Unverified assets did not answer from here; they may still work in a browser.")
-    return 1 if dead else 0
+    if dead:
+        print("For dead videos, see whether the repository has a copy: "
+              "python scripts/fetch_media.py <slug> --list")
+    return 0
 
 
 if __name__ == "__main__":

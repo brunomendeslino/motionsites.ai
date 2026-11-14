@@ -2,7 +2,8 @@
 
 - slug: `investor-deck`
 - scope: deck
-- source: free + pro (category "Investor Presentations")
+- theme: dark
+- source folder in the original repo: free + pro (category "Investor Presentations")
 - summary: 5-slide investor presentation web app. Black, Aeonik, Mux HLS video backgrounds, Motion slide transitions.
 
 Everything below the line is the original prompt, verbatim.

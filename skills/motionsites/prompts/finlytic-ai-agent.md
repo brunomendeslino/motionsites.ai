@@ -2,8 +2,9 @@
 
 - slug: `finlytic-ai-agent`
 - scope: hero
-- source: free + pro (category "SaaS")
-- summary: Fintech AI-agent hero. Black, video scaled to 120% with a blurred black pill behind the copy, purple #7b39fc accents.
+- theme: dark
+- source folder in the original repo: free + pro (category "SaaS")
+- summary: AI-agent automation hero. Black, video scaled to 120% with a blurred black pill behind the copy, purple #7b39fc accents.
 
 Everything below the line is the original prompt, verbatim.
 

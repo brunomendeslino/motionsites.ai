@@ -2,7 +2,8 @@
 
 - slug: `clearinvoice-saas-hero`
 - scope: hero
-- source: free + pro (category "SaaS")
+- theme: dark
+- source folder in the original repo: free + pro (category "SaaS")
 - summary: Invoicing SaaS hero "ClearInvoice". Dark, HLS video at full opacity, Switzer + Geist, exact button recreation, social proof row.
 
 Everything below the line is the original prompt, verbatim.

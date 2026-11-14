@@ -2,7 +2,8 @@
 
 - slug: `velorah`
 - scope: hero
-- source: free (category "Agency")
+- theme: dark
+- source folder in the original repo: free (category "Agency")
 - summary: Fullscreen video hero with glassmorphic navigation and cinematic serif type. shadcn/ui. Headline "Where dreams rise through the silence."
 
 Everything below the line is the original prompt, verbatim.

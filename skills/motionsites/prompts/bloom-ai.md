@@ -2,7 +2,8 @@
 
 - slug: `bloom-ai`
 - scope: hero
-- source: free (category "Hero Section")
+- theme: dark
+- source folder in the original repo: free (category "Hero Section")
 - summary: AI floral-design platform "Bloom". Liquid-glass panels over a looping video.
 
 Everything below the line is the original prompt, verbatim.

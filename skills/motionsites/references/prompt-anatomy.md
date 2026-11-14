@@ -35,9 +35,22 @@ Write the sections in this order. Skip one only if the design truly has nothing 
 
 ## Adapting an existing template into a prompt
 
-1. Start from the template file; keep its structure and every numeric value.
-2. Replace brand name, copy, nav labels and logo names with the user's.
-3. Swap colour tokens only if the user has brand colours; keep the contrast relationships (accent on primary button only, borders at low opacity).
-4. Replace dead media URLs (see the catalog) with the user's asset or a marked placeholder.
-5. Strip export debris: wrapper headings such as "Full Prompt", stray lines reading `code` / `CSS` / `Tsx`, references to "Bolt Database", unneeded backend packages.
-6. Output the result in one fenced code block so it can be copied whole, with a two-line note above it listing what you changed.
+1. **Start from the template file.** Keep its structure, its order and every numeric value. Do not re-sort it into the ten-part anatomy above; add only what is missing (an opening line if it has none, and one short block for accessibility and fallbacks).
+2. **Replace the placeholder brand**: name, copy, nav labels, logo names. Match the original's length and rhythm, since headlines are sized for a word count. Do not invent facts about the user's business (customer counts, ratings, partners, awards, testimonials): write claim-free copy or leave a marked placeholder such as `[customer count]`.
+3. **Recolour only if the user has brand colours**; keep the relationships (accent on the primary button only, borders at low opacity).
+4. **Fill the gaps.** Many specs say "rounded corners" or "smooth transition" where a builder needs a value. Supply concrete ones from a sibling template of the same look or from `patterns.md`, and say in your note that you did.
+5. **Media.** A pasted prompt cannot carry files, so:
+   - *Live video URL*: keep it, declared once at the top of the prompt as a named constant (`HERO_VIDEO_URL`), with a fallback background colour next to it (the hex in the catalog's Footage column).
+   - *Dead video URL*: write `VIDEO_URL_HERE` plus the fallback colour, and tell the user which file in the source repository holds the clip (the catalog's broken-media table gives the path) so they can upload it to their builder. If they want something that works on first paste, use a live clip from a template with similar footage instead and say which.
+   - Run `scripts/check_assets.py` first when you can; the catalog status may be out of date.
+6. **Scope.** If the user did not say hero or page and the best match is a hero, deliver the hero, point its nav links at anchors, and say the prompt covers the first screen only.
+7. **Builder defaults.** Builders ship their own component styles (a shadcn `Button`, a default font). Where exact styling matters, tell the builder to use plain elements with the listed classes and to add no other UI library.
+8. **Strip export debris**: wrapper headings such as "Full Prompt", stray lines reading `code` / `CSS` / `Tsx`, references to "Bolt Database", unneeded backend packages.
+
+### Shape of the reply
+
+- One or two sentences above the block: which template, what you changed.
+- The prompt in a single fenced code block, so it can be copied whole.
+- Up to four short bullets below: what the demo footage is and that it should be replaced before launch; what the prompt does not cover (scope); any placeholders to fill; and that the prompt has not been run through the builder.
+
+Keep everything outside the block to roughly 120 words. The prompt is the deliverable.

@@ -2,7 +2,8 @@
 
 - slug: `yacht-club`
 - scope: hero
-- source: pro (category "Landing Page")
+- theme: dark
+- source folder in the original repo: pro (category "Landing Page")
 - summary: Luxury yacht-club experience: GSAP staggered menu, Framer Motion fleet video overlay, liquid-distortion cursor trail. React 19, Tailwind v4, OKLCH tokens, Instrument Serif.
 
 Everything below the line is the original prompt, verbatim.

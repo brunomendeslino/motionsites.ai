@@ -2,7 +2,8 @@
 
 - slug: `sync-ai`
 - scope: hero
-- source: free + pro (category "Hero Section")
+- theme: light
+- source folder in the original repo: free + pro (category "Hero Section")
 - summary: White single-viewport SaaS hero (brand in the spec is "Stellar.ai"): video pushed below the hero copy, partner-logo bar pinned to the bottom. Inter + lucide only.
 
 Everything below the line is the original prompt, verbatim.

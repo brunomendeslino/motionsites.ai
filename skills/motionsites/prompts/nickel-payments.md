@@ -2,7 +2,8 @@
 
 - slug: `nickel-payments`
 - scope: hero
-- source: free + pro (category "SaaS")
+- theme: light
+- source folder in the original repo: free + pro (category "SaaS")
 - summary: Payments hero with floating navbar. Warm off-white with orange primary, shadcn/ui.
 
 Everything below the line is the original prompt, verbatim.

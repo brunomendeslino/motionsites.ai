@@ -2,7 +2,8 @@
 
 - slug: `guardnet`
 - scope: page
-- source: pro (category "Landing Page")
+- theme: dark
+- source folder in the original repo: pro (category "Landing Page")
 - summary: Security/privacy brand "guardnet": hero, security, companies, benefits sections. Black, Futura/Readex Pro, blue + orange accents.
 
 Everything below the line is the original prompt, verbatim.

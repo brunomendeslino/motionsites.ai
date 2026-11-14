@@ -2,7 +2,8 @@
 
 - slug: `nexar`
 - scope: hero
-- source: pro (category "Hero Section")
+- theme: light
+- source folder in the original repo: pro (category "Hero Section")
 - summary: Project-management dashboard UI floating over a fullscreen video: white pill header, 3-column grid of task cards with staggered fade-up. Instrument Serif display.
 
 Everything below the line is the original prompt, verbatim.

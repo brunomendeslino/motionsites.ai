@@ -2,8 +2,9 @@
 
 - slug: `nexora-automation`
 - scope: hero
-- source: free (category "SaaS")
-- summary: White SaaS hero filling exactly 100vh: badge, headline, CTAs and a hand-coded dashboard preview (not an image). Instrument Serif + Inter, indigo accent.
+- theme: light
+- source folder in the original repo: free (category "SaaS")
+- summary: White SaaS hero filling exactly 100vh: badge, headline, CTAs and a hand-coded banking dashboard preview (balances, accounts, transactions; not an image). Instrument Serif + Inter, indigo accent.
 
 Everything below the line is the original prompt, verbatim.
 

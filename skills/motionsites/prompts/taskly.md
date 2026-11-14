@@ -2,7 +2,8 @@
 
 - slug: `taskly`
 - scope: hero
-- source: free (category "Hero Section")
+- theme: light
+- source folder in the original repo: free (category "Hero Section")
 - summary: Task-management hero. White with blue glow, Fustat + Inter, strong liquid-glass navbar, glassy orb video blended with mix-blend-screen.
 
 Everything below the line is the original prompt, verbatim.

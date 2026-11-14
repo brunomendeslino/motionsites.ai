@@ -2,7 +2,8 @@
 
 - slug: `railroad-ai`
 - scope: hero
-- source: free + pro (category "Hero Section")
+- theme: bright video, white text
+- source folder in the original repo: free + pro (category "Hero Section")
 - summary: Full-screen video hero with a faint black/5 overlay and liquid glass. Headline "Focus in a Constantly Distracted World".
 
 Everything below the line is the original prompt, verbatim.

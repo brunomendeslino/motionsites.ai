@@ -2,7 +2,8 @@
 
 - slug: `bold-portfolio-hero`
 - scope: hero
-- source: free + pro (category "Portfolio")
+- theme: colour (orange)
+- source folder in the original repo: free + pro (category "Portfolio")
 - summary: Personal-portfolio hero on a red-orange vertical gradient (#fd2601 to #f37e1c). Massive uppercase Anton headline, floating navbar, brand strip. No media needed.
 
 Everything below the line is the original prompt, verbatim.

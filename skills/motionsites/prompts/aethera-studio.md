@@ -2,7 +2,8 @@
 
 - slug: `aethera-studio`
 - scope: hero
-- source: free (category "Hero Section")
+- theme: light
+- source folder in the original repo: free (category "Hero Section")
 - summary: Cinematic studio hero over a looping video. Instrument Serif display + Inter. Headline "Beyond silence, we build the eternal."
 
 Everything below the line is the original prompt, verbatim.

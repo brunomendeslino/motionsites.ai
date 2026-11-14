@@ -2,8 +2,9 @@
 
 - slug: `ecovolta-v2`
 - scope: hero
-- source: pro (category "Hero Section")
-- summary: Full-screen HLS-video hero for an AI outbound-sales product (content does not match the title). Instrument Serif + Manrope + Instrument Sans, blue/yellow accents.
+- theme: light
+- source folder in the original repo: pro (category "Hero Section")
+- summary: Full-screen video hero for an AI outbound-sales product (the spec's brand is "closer"; content does not match the title). Dark text on a bright video, Instrument Serif + Manrope + Instrument Sans, blue-to-yellow gradient accents.
 
 Everything below the line is the original prompt, verbatim.
 

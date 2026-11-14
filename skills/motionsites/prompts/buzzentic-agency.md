@@ -2,7 +2,8 @@
 
 - slug: `buzzentic-agency`
 - scope: hero
-- source: free + pro (category "Agency")
+- theme: dark
+- source folder in the original repo: free + pro (category "Agency")
 - summary: Agency hero over a full-screen video with no overlay. Barlow + Instrument Serif italic accents, off-white pills, Tailwind v4.
 
 Everything below the line is the original prompt, verbatim.

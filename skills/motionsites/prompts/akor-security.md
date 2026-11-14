@@ -2,7 +2,8 @@
 
 - slug: `akor-security`
 - scope: page
-- source: free + pro (category "Landing Page")
+- theme: dark
+- source folder in the original repo: free + pro (category "Landing Page")
 - summary: Security-systems landing "AKOR". Dark grey with vivid green primary, Sora, fade-up entrances.
 
 Everything below the line is the original prompt, verbatim.

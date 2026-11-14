@@ -2,7 +2,8 @@
 
 - slug: `codenest-coding-platform`
 - scope: hero
-- source: free (category "Landing Page")
+- theme: dark
+- source folder in the original repo: free (category "Landing Page")
 - summary: Coding-education hero "CodeNest". Dark, HLS video, content inside a liquid-glass card with gradient border.
 
 Everything below the line is the original prompt, verbatim.

@@ -2,7 +2,8 @@
 
 - slug: `vitara`
 - scope: hero
-- source: pro (category "Landing Page")
+- theme: light
+- source folder in the original repo: pro (category "Landing Page")
 - summary: Healthcare-AI hero. Video background under a white navbar, Inria Serif headings with very tight tracking.
 
 Everything below the line is the original prompt, verbatim.

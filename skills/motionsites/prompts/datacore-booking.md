@@ -2,7 +2,8 @@
 
 - slug: `datacore-booking`
 - scope: hero
-- source: free (category "SaaS")
+- theme: dark
+- source folder in the original repo: free (category "SaaS")
 - summary: Booking-app hero over an opaque full-screen video. Purple #7b39fc, Manrope/Cabin/Instrument Serif/Inter. Headline "Book your perfect stay instantly and hassle-free".
 
 Everything below the line is the original prompt, verbatim.

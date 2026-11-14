@@ -2,7 +2,8 @@
 
 - slug: `space-voyage`
 - scope: hero
-- source: free + pro (category "Landing Page")
+- theme: bright video, white text
+- source folder in the original repo: free + pro (category "Landing Page")
 - summary: Space-travel cinematic hero. Video background, liquid glass, Instrument Serif italic + Barlow, partners bar.
 
 Everything below the line is the original prompt, verbatim.

@@ -2,8 +2,9 @@
 
 - slug: `clubx-investors`
 - scope: hero
-- source: free + pro (category "Landing Page")
-- summary: Private investor club "ClubX". Full-screen video hero, Inter + Instrument Serif. Headline "Finance. Freedom. Fellows."
+- theme: light
+- source folder in the original repo: free + pro (category "Landing Page")
+- summary: Private investor club "ClubX". Dark heading over a bright full-screen video with white stats at the bottom, Inter + Instrument Serif. Headline "Finance. Freedom. Fellows."
 
 Everything below the line is the original prompt, verbatim.
 

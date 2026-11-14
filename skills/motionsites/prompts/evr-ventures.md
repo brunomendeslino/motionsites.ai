@@ -2,8 +2,9 @@
 
 - slug: `evr-ventures`
 - scope: hero
-- source: free + pro (category "Hero Section")
-- summary: Venture-firm hero. Pure black with video background, Geist + Gilda Display serif.
+- theme: dark
+- source folder in the original repo: free + pro (category "Hero Section")
+- summary: Impact-venture hero "Evolve Responsible Ventures". Pure black with video background, Geist + Gilda Display serif, circular progress stat. Headline "Navigating the route to impactful regeneration".
 
 Everything below the line is the original prompt, verbatim.
 

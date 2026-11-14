@@ -2,7 +2,8 @@
 
 - slug: `grow-ai-talent-platform`
 - scope: hero
-- source: free + pro (category "SaaS")
+- theme: dark
+- source folder in the original repo: free + pro (category "SaaS")
 - summary: Dark hero + social-proof section. shadcn tokens (260 87% 3%), Geist, liquid glass, video with JS fade-in/out loop, logo marquee.
 
 Everything below the line is the original prompt, verbatim.

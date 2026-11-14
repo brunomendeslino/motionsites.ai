@@ -2,8 +2,9 @@
 
 - slug: `transform-data`
 - scope: hero
-- source: free (category "Hero Section")
-- summary: Data-product hero with a 115%-scaled video and a custom JavaScript fade loop. Schibsted Grotesk/Inter/Noto Sans/Fustat.
+- theme: light
+- source folder in the original repo: free (category "Hero Section")
+- summary: Data-product hero: black text and an AI search box over a 115%-scaled bright video with a custom JavaScript fade loop. Schibsted Grotesk/Inter/Noto Sans/Fustat.
 
 Everything below the line is the original prompt, verbatim.
 

@@ -2,7 +2,8 @@
 
 - slug: `acreage-farming`
 - scope: page
-- source: pro (category "Landing Page")
+- theme: light
+- source folder in the original repo: pro (category "Landing Page")
 - summary: Agriculture brand site, 12 sections (video hero, stats bar, about, services, video break, portfolio, blog grid, CTA, footer). Warm cream + forest green, Playfair Display + DM Sans.
 
 Everything below the line is the original prompt, verbatim.

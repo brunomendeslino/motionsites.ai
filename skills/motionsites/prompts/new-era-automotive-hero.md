@@ -2,7 +2,8 @@
 
 - slug: `new-era-automotive-hero`
 - scope: hero
-- source: free + pro (category "Automotive")
+- theme: dark
+- source folder in the original repo: free + pro (category "Automotive")
 - summary: Car-marketplace hero. Dark video with giant gradient-filled "NEW ERA" in Bebas Neue behind the content, Inter UI.
 
 Everything below the line is the original prompt, verbatim.

@@ -2,7 +2,8 @@
 
 - slug: `crypto-wealth`
 - scope: hero
-- source: pro (category "Hero Section")
+- theme: light
+- source folder in the original repo: pro (category "Hero Section")
 - summary: Actually "ContentFlow": two scroll-linked fullscreen sections over a fixed video that zooms with scroll progress. Inter, amber-to-blue gradient-border buttons, feature showcase cards.
 
 Everything below the line is the original prompt, verbatim.

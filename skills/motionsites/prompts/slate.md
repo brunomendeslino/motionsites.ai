@@ -2,7 +2,8 @@
 
 - slug: `slate`
 - scope: hero
-- source: pro (category "SaaS")
+- theme: dark
+- source folder in the original repo: pro (category "SaaS")
 - summary: Productivity SaaS "Slate". Fullscreen video, ultra-light Helvetica Neue (weight 200), liquid glass, GSAP SplitText heading animation.
 
 Everything below the line is the original prompt, verbatim.

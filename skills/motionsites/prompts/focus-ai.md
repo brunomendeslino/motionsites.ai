@@ -2,7 +2,8 @@
 
 - slug: `focus-ai`
 - scope: page
-- source: pro (category "Landing Page")
+- theme: dark
+- source folder in the original repo: pro (category "Landing Page")
 - summary: Actually "Velorah", an electric RV/camper brand: 6-section landing. Pure black, Instrument Serif headings + Inter, HLS video sections.
 
 Everything below the line is the original prompt, verbatim.

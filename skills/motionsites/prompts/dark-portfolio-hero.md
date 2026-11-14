@@ -2,7 +2,8 @@
 
 - slug: `dark-portfolio-hero`
 - scope: hero
-- source: free + pro (category "Portfolio")
+- theme: dark
+- source folder in the original repo: free + pro (category "Portfolio")
 - summary: Portfolio hero plus animated loading screen. Dark, Next.js 14, GSAP entrance, Framer Motion loader, Inter + Instrument Serif.
 
 Everything below the line is the original prompt, verbatim.

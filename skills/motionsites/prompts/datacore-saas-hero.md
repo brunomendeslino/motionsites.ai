@@ -2,7 +2,8 @@
 
 - slug: `datacore-saas-hero`
 - scope: hero
-- source: free + pro (category "SaaS")
+- theme: dark
+- source folder in the original repo: free + pro (category "SaaS")
 - summary: "Linear-style" dark SaaS hero "Datacore". HLS video under a black/60 overlay, mobile hamburger menu, Manrope/Inter/Cabin/Instrument Serif.
 
 Everything below the line is the original prompt, verbatim.

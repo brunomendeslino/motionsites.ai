@@ -2,7 +2,8 @@
 
 - slug: `loader-animation`
 - scope: component
-- source: free + pro (category "Component")
+- theme: dark
+- source folder in the original repo: free + pro (category "Component")
 - summary: Fullscreen loading screen: rotating words, 000-to-100 counter, gradient progress bar, timed hand-off to the page. Framer Motion, Instrument Serif italic. No media needed.
 
 Everything below the line is the original prompt, verbatim.

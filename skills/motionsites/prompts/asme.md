@@ -2,7 +2,8 @@
 
 - slug: `asme`
 - scope: hero
-- source: free (category "Hero Section")
+- theme: dark
+- source folder in the original repo: free (category "Hero Section")
 - summary: Dark cinematic hero, full-screen video with liquid-glass UI. Headline "Built for the curious".
 
 Everything below the line is the original prompt, verbatim.

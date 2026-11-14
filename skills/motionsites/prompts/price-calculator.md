@@ -2,7 +2,8 @@
 
 - slug: `price-calculator`
 - scope: component
-- source: free (category "SaaS")
+- theme: dark
+- source folder in the original repo: free (category "SaaS")
 - summary: Project-estimation calculator section: radios, slider, checkboxes and live pricing logic against agency/freelancer comparison cards. Dark, coral #FF5656, shadcn Slider. No media needed.
 
 Everything below the line is the original prompt, verbatim.

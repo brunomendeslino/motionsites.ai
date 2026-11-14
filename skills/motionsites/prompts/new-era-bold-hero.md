@@ -2,7 +2,8 @@
 
 - slug: `new-era-bold-hero`
 - scope: hero
-- source: free + pro (category "Agency")
+- theme: colour (blue)
+- source folder in the original repo: free + pro (category "Agency")
 - summary: Top-aligned hero over a video with dark-blue fallback (#21346e), big headline and custom CTA.
 
 Everything below the line is the original prompt, verbatim.

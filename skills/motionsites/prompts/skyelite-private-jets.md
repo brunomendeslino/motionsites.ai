@@ -2,7 +2,8 @@
 
 - slug: `skyelite-private-jets`
 - scope: hero
-- source: free (category "Landing Page")
+- theme: light
+- source folder in the original repo: free (category "Landing Page")
 - summary: Private-jet hero over a bright video: dark-grey text, uppercase "PRIVATE JETS" label, two-line headline.
 
 Everything below the line is the original prompt, verbatim.

@@ -2,8 +2,9 @@
 
 - slug: `logoisum-video-agency`
 - scope: hero
-- source: free + pro (category "Agency")
-- summary: Video-editing agency hero. Full video with no overlay, floating white navbar, Barlow + Instrument Serif italic. Shortest spec in the library.
+- theme: bright video, white text
+- source folder in the original repo: free + pro (category "Agency")
+- summary: Video-editing agency hero. Bright full video with no overlay, floating white navbar, Barlow + Instrument Serif italic. Shortest spec in the library.
 
 Everything below the line is the original prompt, verbatim.
 

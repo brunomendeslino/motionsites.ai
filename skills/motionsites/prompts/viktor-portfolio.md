@@ -2,7 +2,8 @@
 
 - slug: `viktor-portfolio`
 - scope: page
-- source: free + pro (category "Portfolio")
+- theme: dark
+- source folder in the original repo: free + pro (category "Portfolio")
 - summary: Two-page architect portfolio. Black, Orbitron + Space Grotesk + JetBrains Mono, video hero with vignette, slide counter and next-project navigation.
 
 Everything below the line is the original prompt, verbatim.

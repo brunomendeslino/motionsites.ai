@@ -2,7 +2,8 @@
 
 - slug: `planet-orbit`
 - scope: hero
-- source: free + pro (category "SaaS")
+- theme: dark
+- source folder in the original repo: free + pro (category "SaaS")
 - summary: Dark SaaS hero. Purple-black with green accent #87FB89, Geist Sans, liquid glass.
 
 Everything below the line is the original prompt, verbatim.

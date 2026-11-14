@@ -2,7 +2,8 @@
 
 - slug: `orbit-engineers`
 - scope: page
-- source: free + pro (category "Agency")
+- theme: dark
+- source folder in the original repo: free + pro (category "Agency")
 - summary: Space-engineering consultancy: 3 full-screen heroes switched by buttons (not scroll) with crossfading videos. Dark blue-grey + cyan, Inter, Framer Motion.
 
 Everything below the line is the original prompt, verbatim.

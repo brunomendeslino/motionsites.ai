@@ -2,7 +2,8 @@
 
 - slug: `social-media-posts`
 - scope: component
-- source: pro (category "Hero Section")
+- theme: mixed
+- source folder in the original repo: pro (category "Hero Section")
 - summary: 3x2 grid of six 384px social-post cards over a full-page background image. Seven Google fonts, liquid glass. A set of post designs rather than a page.
 
 Everything below the line is the original prompt, verbatim.

@@ -2,7 +2,8 @@
 
 - slug: `taskora-saas-hero`
 - scope: hero
-- source: free + pro (category "SaaS")
+- theme: dark
+- source folder in the original repo: free + pro (category "SaaS")
 - summary: Dark (#050505) SaaS hero "Taskora": video at 50% opacity fading into the background, floating pill glass navbar, dashboard UI, Instrument Serif italic accent word.
 
 Everything below the line is the original prompt, verbatim.

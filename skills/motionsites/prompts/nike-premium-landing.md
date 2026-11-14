@@ -2,7 +2,8 @@
 
 - slug: `nike-premium-landing`
 - scope: hero
-- source: pro (category "Landing Page")
+- theme: dark
+- source folder in the original repo: pro (category "Landing Page")
 - summary: Two-section interactive sneaker hero: GSAP bubble menu, cursor spotlight that reveals a video through an SVG mask, react-player. Tailwind v4, Manrope + Instrument Serif. Uses a real brand: rebrand before use.
 
 Everything below the line is the original prompt, verbatim.

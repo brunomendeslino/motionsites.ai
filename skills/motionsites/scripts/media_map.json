@@ -1,0 +1,2121 @@
+{
+ "checked": "2026-11-14",
+ "templates": {
+  "3d-jack-portfolio": [
+   {
+    "url": "https://shrug-person-78902957.figma.site/_components/v2/d24c01ad3a56fc65e942a1f501eb73db42d7cf9a/Rectangle_40443.81459862.png",
+    "kind": "img",
+    "state": "ok",
+    "http": "200",
+    "repo": null
+   },
+   {
+    "url": "https://motionsites.ai/assets/hero-space-voyage-preview-eECLH3Yc.gif",
+    "kind": "img",
+    "state": "ok",
+    "http": "206",
+    "repo": null
+   },
+   {
+    "url": "https://motionsites.ai/assets/hero-codenest-preview-Cgppc2qV.gif",
+    "kind": "img",
+    "state": "ok",
+    "http": "206",
+    "repo": null
+   },
+   {
+    "url": "https://motionsites.ai/assets/hero-vex-ventures-preview-BczMFIiw.gif",
+    "kind": "img",
+    "state": "ok",
+    "http": "206",
+    "repo": null
+   },
+   {
+    "url": "https://motionsites.ai/assets/hero-stellar-ai-v2-preview-DjvxjG3C.gif",
+    "kind": "img",
+    "state": "ok",
+    "http": "206",
+    "repo": null
+   },
+   {
+    "url": "https://motionsites.ai/assets/hero-asme-preview-B_nGDnTP.gif",
+    "kind": "img",
+    "state": "ok",
+    "http": "206",
+    "repo": null
+   },
+   {
+    "url": "https://motionsites.ai/assets/hero-transform-data-preview-Cx5OU29N.gif",
+    "kind": "img",
+    "state": "ok",
+    "http": "206",
+    "repo": null
+   },
+   {
+    "url": "https://motionsites.ai/assets/hero-vitara-preview-Cjz2QYyU.gif",
+    "kind": "img",
+    "state": "ok",
+    "http": "206",
+    "repo": null
+   },
+   {
+    "url": "https://motionsites.ai/assets/hero-terra-preview-BFjrCr7T.gif",
+    "kind": "img",
+    "state": "ok",
+    "http": "206",
+    "repo": null
+   },
+   {
+    "url": "https://motionsites.ai/assets/hero-skyelite-preview-DHaZIgUv.gif",
+    "kind": "img",
+    "state": "ok",
+    "http": "206",
+    "repo": null
+   },
+   {
+    "url": "https://motionsites.ai/assets/hero-aethera-preview-DknSlcTa.gif",
+    "kind": "img",
+    "state": "ok",
+    "http": "206",
+    "repo": null
+   },
+   {
+    "url": "https://motionsites.ai/assets/hero-designpro-preview-D8c5_een.gif",
+    "kind": "img",
+    "state": "ok",
+    "http": "206",
+    "repo": null
+   },
+   {
+    "url": "https://motionsites.ai/assets/hero-stellar-ai-preview-D3HL6bw1.gif",
+    "kind": "img",
+    "state": "ok",
+    "http": "206",
+    "repo": null
+   },
+   {
+    "url": "https://motionsites.ai/assets/hero-xportfolio-preview-D4A8maiC.gif",
+    "kind": "img",
+    "state": "ok",
+    "http": "206",
+    "repo": null
+   },
+   {
+    "url": "https://motionsites.ai/assets/hero-orbit-web3-preview-BXt4OttD.gif",
+    "kind": "img",
+    "state": "ok",
+    "http": "206",
+    "repo": null
+   },
+   {
+    "url": "https://motionsites.ai/assets/hero-nexora-preview-cx5HmUgo.gif",
+    "kind": "img",
+    "state": "ok",
+    "http": "206",
+    "repo": null
+   },
+   {
+    "url": "https://motionsites.ai/assets/hero-evr-ventures-preview-DZxeVFEX.gif",
+    "kind": "img",
+    "state": "ok",
+    "http": "206",
+    "repo": "assets/images/AI_Designer_Agency_2.gif"
+   },
+   {
+    "url": "https://motionsites.ai/assets/hero-planet-orbit-preview-DWAP8Z1P.gif",
+    "kind": "img",
+    "state": "ok",
+    "http": "206",
+    "repo": null
+   },
+   {
+    "url": "https://motionsites.ai/assets/hero-new-era-preview-CocuDUm9.gif",
+    "kind": "img",
+    "state": "ok",
+    "http": "206",
+    "repo": null
+   },
+   {
+    "url": "https://motionsites.ai/assets/hero-wealth-preview-B70idl_u.gif",
+    "kind": "img",
+    "state": "ok",
+    "http": "206",
+    "repo": "assets/images/AI_Designer_Agency_3.gif"
+   },
+   {
+    "url": "https://motionsites.ai/assets/hero-luminex-preview-CxOP7ce6.gif",
+    "kind": "img",
+    "state": "ok",
+    "http": "206",
+    "repo": null
+   },
+   {
+    "url": "https://motionsites.ai/assets/hero-celestia-preview-0yO3jXO8.gif",
+    "kind": "img",
+    "state": "dead",
+    "http": "404",
+    "repo": null
+   },
+   {
+    "url": "https://shrug-person-78902957.figma.site/_components/v2/ebb2b8f25d8e24d5f0a5ca8af4c950de81aa2fd7/moon_icon.11395d36.png",
+    "kind": "img",
+    "state": "ok",
+    "http": "200",
+    "repo": null
+   },
+   {
+    "url": "https://shrug-person-78902957.figma.site/_components/v2/ebb2b8f25d8e24d5f0a5ca8af4c950de81aa2fd7/p59_1.4659672e.png",
+    "kind": "img",
+    "state": "ok",
+    "http": "200",
+    "repo": null
+   },
+   {
+    "url": "https://shrug-person-78902957.figma.site/_components/v2/ebb2b8f25d8e24d5f0a5ca8af4c950de81aa2fd7/lego_icon-1.703bb594.png",
+    "kind": "img",
+    "state": "ok",
+    "http": "200",
+    "repo": null
+   },
+   {
+    "url": "https://shrug-person-78902957.figma.site/_components/v2/ebb2b8f25d8e24d5f0a5ca8af4c950de81aa2fd7/Group_134-1.2e04f3ce.png",
+    "kind": "img",
+    "state": "ok",
+    "http": "200",
+    "repo": null
+   },
+   {
+    "url": "https://images.higgs.ai/?default=1&output=webp&url=https%3A%2F%2Fd8j0ntlcm91z4.cloudfront.net%2Fuser_38xzZboKViGWJOttwIXH07lWA1P%2Fhf_20260412_055344_5eff02e0-87a5-41ce-b64f-eb08da8f33db.png&w=1280&q=85",
+    "kind": "img",
+    "state": "ok",
+    "http": "206",
+    "repo": null
+   },
+   {
+    "url": "https://images.higgs.ai/?default=1&output=webp&url=https%3A%2F%2Fd8j0ntlcm91z4.cloudfront.net%2Fuser_38xzZboKViGWJOttwIXH07lWA1P%2Fhf_20260412_055431_11d841fd-8b41-46a5-82e4-b04f2407a7d8.png&w=1280&q=85",
+    "kind": "img",
+    "state": "ok",
+    "http": "206",
+    "repo": null
+   },
+   {
+    "url": "https://images.higgs.ai/?default=1&output=webp&url=https%3A%2F%2Fd8j0ntlcm91z4.cloudfront.net%2Fuser_38xzZboKViGWJOttwIXH07lWA1P%2Fhf_20260412_055451_e317bf2d-28d4-48cc-86b0-6f72f25b6327.png&w=1280&q=85",
+    "kind": "img",
+    "state": "ok",
+    "http": "206",
+    "repo": null
+   },
+   {
+    "url": "https://images.higgs.ai/?default=1&output=webp&url=https%3A%2F%2Fd8j0ntlcm91z4.cloudfront.net%2Fuser_38xzZboKViGWJOttwIXH07lWA1P%2Fhf_20260412_055654_911201c5-36d9-4bc6-bac7-331adfce159f.png&w=1280&q=85",
+    "kind": "img",
+    "state": "ok",
+    "http": "206",
+    "repo": null
+   },
+   {
+    "url": "https://images.higgs.ai/?default=1&output=webp&url=https%3A%2F%2Fd8j0ntlcm91z4.cloudfront.net%2Fuser_38xzZboKViGWJOttwIXH07lWA1P%2Fhf_20260412_055723_5ceda0b8-d9c2-4665-b2e3-83ba19ba76d1.png&w=1280&q=85",
+    "kind": "img",
+    "state": "ok",
+    "http": "206",
+    "repo": null
+   },
+   {
+    "url": "https://images.higgs.ai/?default=1&output=webp&url=https%3A%2F%2Fd8j0ntlcm91z4.cloudfront.net%2Fuser_38xzZboKViGWJOttwIXH07lWA1P%2Fhf_20260412_055753_adc5dcbd-a8e6-49c0-b43a-9b030d835cea.png&w=1280&q=85",
+    "kind": "img",
+    "state": "ok",
+    "http": "206",
+    "repo": null
+   },
+   {
+    "url": "https://images.higgs.ai/?default=1&output=webp&url=https%3A%2F%2Fd8j0ntlcm91z4.cloudfront.net%2Fuser_38xzZboKViGWJOttwIXH07lWA1P%2Fhf_20260412_055759_963cfb0b-4bd1-4b0f-9d0a-09bd6cf95b2f.png&w=1280&q=85",
+    "kind": "img",
+    "state": "ok",
+    "http": "206",
+    "repo": null
+   },
+   {
+    "url": "https://images.higgs.ai/?default=1&output=webp&url=https%3A%2F%2Fd8j0ntlcm91z4.cloudfront.net%2Fuser_38xzZboKViGWJOttwIXH07lWA1P%2Fhf_20260412_060108_438f781a-9846-4dcc-89ab-c4e6cb830f5b.png&w=1280&q=85",
+    "kind": "img",
+    "state": "ok",
+    "http": "206",
+    "repo": null
+   },
+   {
+    "url": "https://images.higgs.ai/?default=1&output=webp&url=https%3A%2F%2Fd8j0ntlcm91z4.cloudfront.net%2Fuser_38xzZboKViGWJOttwIXH07lWA1P%2Fhf_20260412_055818_9d062121-ad7e-46b9-999a-1a6a692ef1ee.png&w=1280&q=85",
+    "kind": "img",
+    "state": "ok",
+    "http": "206",
+    "repo": null
+   }
+  ],
+  "acreage-farming": [
+   {
+    "url": "https://cdn.pixabay.com/video/2025/01/22/254016_large.mp4",
+    "kind": "video",
+    "state": "ok",
+    "http": "200",
+    "repo": null
+   },
+   {
+    "url": "https://images.unsplash.com/photo-1464226184884-fa280b87c399?w=800&q=80",
+    "kind": "img",
+    "state": "ok",
+    "http": "206",
+    "repo": null
+   },
+   {
+    "url": "https://images.unsplash.com/photo-1574323347407-f5e1ad6d020b?w=400&q=80",
+    "kind": "img",
+    "state": "ok",
+    "http": "206",
+    "repo": null
+   },
+   {
+    "url": "https://images.unsplash.com/photo-1625246333195-78d9c38ad449?w=600&q=80",
+    "kind": "img",
+    "state": "ok",
+    "http": "206",
+    "repo": null
+   },
+   {
+    "url": "https://images.unsplash.com/photo-1592982537447-7440770cbfc9?w=600&q=80",
+    "kind": "img",
+    "state": "ok",
+    "http": "206",
+    "repo": null
+   },
+   {
+    "url": "https://images.unsplash.com/photo-1472141521881-95d0e87e2e76?w=600&q=80",
+    "kind": "img",
+    "state": "dead",
+    "http": "404",
+    "repo": null
+   },
+   {
+    "url": "https://images.unsplash.com/photo-1560493676-04071c5f467b?w=800&q=80",
+    "kind": "img",
+    "state": "ok",
+    "http": "206",
+    "repo": null
+   },
+   {
+    "url": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=600&q=80",
+    "kind": "img",
+    "state": "ok",
+    "http": "206",
+    "repo": null
+   },
+   {
+    "url": "https://images.unsplash.com/photo-1574943320219-553eb213f72d?w=600&q=80",
+    "kind": "img",
+    "state": "ok",
+    "http": "206",
+    "repo": null
+   },
+   {
+    "url": "https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?w=800&q=80",
+    "kind": "img",
+    "state": "ok",
+    "http": "206",
+    "repo": null
+   },
+   {
+    "url": "https://images.unsplash.com/photo-1523741543316-beb7fc7023d8?w=600&q=80",
+    "kind": "img",
+    "state": "ok",
+    "http": "206",
+    "repo": null
+   },
+   {
+    "url": "https://images.unsplash.com/photo-1530836369250-ef72a3f5cda8?w=600&q=80",
+    "kind": "img",
+    "state": "ok",
+    "http": "206",
+    "repo": null
+   },
+   {
+    "url": "https://images.unsplash.com/photo-1574323347407-f5e1ad6d020b?w=600&q=80",
+    "kind": "img",
+    "state": "ok",
+    "http": "206",
+    "repo": null
+   },
+   {
+    "url": "https://images.unsplash.com/photo-1607619056574-7b8d3ee536b2?w=600&q=80",
+    "kind": "img",
+    "state": "ok",
+    "http": "206",
+    "repo": null
+   },
+   {
+    "url": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=1920&q=80",
+    "kind": "img",
+    "state": "ok",
+    "http": "206",
+    "repo": null
+   },
+   {
+    "url": "https://unsplash.com",
+    "kind": "img",
+    "state": "unverified",
+    "http": "401",
+    "repo": null
+   }
+  ],
+  "aethera-studio": [
+   {
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260328_083109_283f3553-e28f-428b-a723-d639c617eb2b.mp4",
+    "kind": "video",
+    "state": "ok",
+    "http": "206",
+    "repo": "assets/videos/Aethera_Studio_0.mp4",
+    "mb": 30.4,
+    "width": 1928,
+    "height": 1072,
+    "seconds": 14.0
+   }
+  ],
+  "ai-automation-hero": [
+   {
+    "url": "https://stream.mux.com/s8pMcOvMQXc4GD6AX4e1o01xFogFxipmuKltNfSYza0200.m3u8",
+    "kind": "HLS",
+    "state": "dead",
+    "http": "403",
+    "repo": "assets/videos/Investor_Deck_1.mp4",
+    "mb": 1.4,
+    "width": 1280,
+    "height": 668,
+    "seconds": 11.8
+   }
+  ],
+  "ai-designer-agency": [
+   {
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260326_073936_8dd07fdb-4f6b-4220-a3f0-9dedfaab0c88.mp4",
+    "kind": "video",
+    "state": "ok",
+    "http": "206",
+    "repo": "assets/videos/AI_Designer_Agency_0.mp4",
+    "mb": 19.2,
+    "width": 1440,
+    "height": 1440,
+    "seconds": 13.0
+   },
+   {
+    "url": "https://motionsites.ai/assets/hero-grow-ai-preview-BlQ8tAQ-.gif",
+    "kind": "img",
+    "state": "ok",
+    "http": "206",
+    "repo": "assets/images/AI_Designer_Agency_1.gif"
+   },
+   {
+    "url": "https://motionsites.ai/assets/hero-evr-ventures-preview-DZxeVFEX.gif",
+    "kind": "img",
+    "state": "ok",
+    "http": "206",
+    "repo": "assets/images/AI_Designer_Agency_2.gif"
+   },
+   {
+    "url": "https://motionsites.ai/assets/hero-wealth-preview-B70idl_u.gif",
+    "kind": "img",
+    "state": "ok",
+    "http": "206",
+    "repo": "assets/images/AI_Designer_Agency_3.gif"
+   },
+   {
+    "url": "https://motionsites.ai/assets/hero-neuralyn-preview-Br4FRDQA.gif",
+    "kind": "img",
+    "state": "ok",
+    "http": "206",
+    "repo": "assets/images/AI_Designer_Agency_4.gif"
+   },
+   {
+    "url": "https://media.cleanshot.cloud/media/21620/nKosRonaEKSufJVJ4VtouFhOPkqgJ3dPoQ8ZP52S.mp4",
+    "kind": "video",
+    "state": "dead",
+    "http": "403",
+    "repo": null
+   },
+   {
+    "url": "https://stream.mux.com/4IMYGcL01xjs7ek5ANO17JC4VQVUTsojZlnw4fXzwSxc.m3u8",
+    "kind": "HLS",
+    "state": "dead",
+    "http": "403",
+    "repo": "assets/videos/AI_Designer_Agency_6.mp4",
+    "mb": 3.1,
+    "width": 1920,
+    "height": 1080,
+    "seconds": 16.0
+   }
+  ],
+  "ai-designer-portfolio": [
+   {
+    "url": "https://assets.website-files.com/6009ec8cda7f305645c9d91b/60176f9bb43e36419997ecfe_PPNeueMontreal-Book.otf",
+    "kind": "font",
+    "state": "dead",
+    "http": "403",
+    "repo": null
+   },
+   {
+    "url": "https://assets.website-files.com/6009ec8cda7f305645c9d91b/60176f9b39c5673e51a86f5a_PPNeueMontreal-Medium.otf",
+    "kind": "font",
+    "state": "dead",
+    "http": "403",
+    "repo": null
+   }
+  ],
+  "akor-security": [
+   {
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260322_013248_a74099a8-be2b-4164-a823-eddd5e149fa1.mp4",
+    "kind": "video",
+    "state": "ok",
+    "http": "206",
+    "repo": "assets/videos/AKOR_Security_0.mp4",
+    "mb": 5.3,
+    "width": 2076,
+    "height": 996,
+    "seconds": 10.0
+   },
+   {
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260322_015134_c80a3c98-609e-4526-b79e-94dc96cd34e8.png",
+    "kind": "img",
+    "state": "ok",
+    "http": "206",
+    "repo": "assets/images/AKOR_Security_1.png"
+   },
+   {
+    "url": "https://images.higgs.ai/?default=1&output=webp&url=https%3A%2F%2Fd8j0ntlcm91z4.cloudfront.net%2Fuser_38xzZboKViGWJOttwIXH07lWA1P%2Fhf_20260322_014934_6e2804d7-d219-461d-98d5-36140fc90c4c.png&w=1280&q=85",
+    "kind": "img",
+    "state": "ok",
+    "http": "206",
+    "repo": "assets/images/AKOR_Security_2.png"
+   },
+   {
+    "url": "https://images.higgs.ai/?default=1&output=webp&url=https%3A%2F%2Fd8j0ntlcm91z4.cloudfront.net%2Fuser_38xzZboKViGWJOttwIXH07lWA1P%2Fhf_20260322_014626_97cccc38-534a-4c9d-a801-68a449da9d0c.png&w=1920&q=85",
+    "kind": "img",
+    "state": "ok",
+    "http": "206",
+    "repo": "assets/images/AKOR_Security_3.png"
+   },
+   {
+    "url": "https://images.higgs.ai/?default=1&output=webp&url=https%3A%2F%2Fd8j0ntlcm91z4.cloudfront.net%2Fuser_38xzZboKViGWJOttwIXH07lWA1P%2Fhf_20260322_014849_570d4eeb-9613-4b19-a084-46c7a2665243.png&w=1280&q=85",
+    "kind": "img",
+    "state": "ok",
+    "http": "206",
+    "repo": "assets/images/AKOR_Security_4.png"
+   },
+   {
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260322_011532_86f9b93a-2ffc-42fd-8735-12a4c55ab536.mp4",
+    "kind": "video",
+    "state": "ok",
+    "http": "206",
+    "repo": "assets/videos/AKOR_Security_5.mp4",
+    "mb": 6.1,
+    "width": 1472,
+    "height": 1404,
+    "seconds": 10.0
+   }
+  ],
+  "apex-saas": [
+   {
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260308_114720_3dabeb9e-2c39-4907-b747-bc3544e2d5b7.mp4",
+    "kind": "video",
+    "state": "ok",
+    "http": "206",
+    "repo": "assets/videos/Apex_SaaS_0.mp4",
+    "mb": 12.0,
+    "width": 1928,
+    "height": 1076,
+    "seconds": 10.0
+   }
+  ],
+  "asme": [
+   {
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260328_115001_bcdaa3b4-03de-47e7-ad63-ae3e392c32d4.mp4",
+    "kind": "video",
+    "state": "ok",
+    "http": "206",
+    "repo": "assets/videos/Asme_0.mp4",
+    "mb": 20.1,
+    "width": 1924,
+    "height": 1076,
+    "seconds": 10.0
+   }
+  ],
+  "automation-machines": [
+   {
+    "url": "https://prod.spline.design/PIgTjpRFA03yfLyK/scene.splinecode",
+    "kind": "3D",
+    "state": "ok",
+    "http": "206",
+    "repo": null
+   }
+  ],
+  "bionova-biotech": [
+   {
+    "url": "https://stream.mux.com/1RdbcBtpEUK6501pc6yaIvwo9UfSnOg02k1uHxat00xR3w.m3u8",
+    "kind": "HLS",
+    "state": "dead",
+    "http": "403",
+    "repo": "assets/videos/Bionova_Biotech_0.mp4",
+    "mb": 2.6,
+    "width": 1080,
+    "height": 1080,
+    "seconds": 9.0
+   },
+   {
+    "url": "https://stream.mux.com/t1TbTB8M1VYHkhxBuap4A8Vm1x015HTHyuQxqchDBago.m3u8",
+    "kind": "HLS",
+    "state": "dead",
+    "http": "403",
+    "repo": "assets/videos/Bionova_Biotech_1.mp4",
+    "mb": 1.8,
+    "width": 1080,
+    "height": 1080,
+    "seconds": 9.0
+   },
+   {
+    "url": "https://stream.mux.com/6yvj9SR5bjmXq9N3ak7gy427RwUs8R2ZoH4ndA7Q1018.m3u8",
+    "kind": "HLS",
+    "state": "dead",
+    "http": "403",
+    "repo": "assets/videos/Bionova_Biotech_2.mp4",
+    "mb": 3.4,
+    "width": 1080,
+    "height": 1080,
+    "seconds": 9.0
+   }
+  ],
+  "bloom-ai": [
+   {
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260315_073750_51473149-4350-4920-ae24-c8214286f323.mp4",
+    "kind": "video",
+    "state": "ok",
+    "http": "206",
+    "repo": "assets/videos/Bloom_AI_0.mp4",
+    "mb": 12.4,
+    "width": 1756,
+    "height": 1176,
+    "seconds": 10.0
+   }
+  ],
+  "bold-portfolio-hero": [],
+  "buzzentic-agency": [
+   {
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260306_074215_04640ca7-042c-45d6-bb56-58b1e8a42489.mp4",
+    "kind": "video",
+    "state": "ok",
+    "http": "206",
+    "repo": "assets/videos/Buzzentic_Agency_0.mp4",
+    "mb": 4.8,
+    "width": 1912,
+    "height": 1080,
+    "seconds": 10.0
+   }
+  ],
+  "clearinvoice-saas-hero": [
+   {
+    "url": "https://stream.mux.com/hUT6X11m1Vkw1QMxPOLgI761x2cfpi9bHFbi5cNg4014.m3u8",
+    "kind": "HLS",
+    "state": "dead",
+    "http": "403",
+    "repo": "assets/videos/ClearInvoice_SaaS_Hero_0.mp4",
+    "mb": 1.9,
+    "width": 1280,
+    "height": 720,
+    "seconds": 14.1
+   }
+  ],
+  "clubx-investors": [
+   {
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260323_071151_38c3924f-c312-48af-a196-3fbb80e4226f.mp4",
+    "kind": "video",
+    "state": "ok",
+    "http": "206",
+    "repo": "assets/videos/ClubX_Investors_0.mp4",
+    "mb": 13.2,
+    "width": 1756,
+    "height": 1176,
+    "seconds": 13.0
+   }
+  ],
+  "codenest-coding-platform": [
+   {
+    "url": "https://stream.mux.com/tLkHO1qZoaaQOUeVWo8hEBeGQfySP02EPS02BmnNFyXys.m3u8",
+    "kind": "HLS",
+    "state": "dead",
+    "http": "403",
+    "repo": "assets/videos/CodeNest_Coding_Platform_0.mp4",
+    "mb": 2.5,
+    "width": 1920,
+    "height": 832,
+    "seconds": 9.3
+   }
+  ],
+  "codercrest": [
+   {
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260424_090051_64ea5059-da6b-492b-a171-aa7ecc767dc3.mp4",
+    "kind": "video",
+    "state": "ok",
+    "http": "206",
+    "repo": null
+   },
+   {
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260424_093237_ff0ddc63-c068-4e29-96da-fdd0e40af133.mp4",
+    "kind": "video",
+    "state": "ok",
+    "http": "206",
+    "repo": null
+   }
+  ],
+  "crypto-wealth": [
+   {
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260417_061226_74f0749c-a22d-42b3-895e-5d6203bc741c.mp4",
+    "kind": "video",
+    "state": "ok",
+    "http": "206",
+    "repo": null
+   },
+   {
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260415_154932_f36efd90-557d-4cfb-add6-79336918bd53.mp4",
+    "kind": "video",
+    "state": "ok",
+    "http": "206",
+    "repo": null
+   }
+  ],
+  "dark-portfolio-hero": [
+   {
+    "url": "https://stream.mux.com/Gs3wZfrtz6ZfqZqQ02c02Z7lugV00FGZvRpcqFTel66r3g.m3u8",
+    "kind": "HLS",
+    "state": "dead",
+    "http": "403",
+    "repo": "assets/videos/Dark_Portfolio_Hero_0.mp4",
+    "mb": 1.7,
+    "width": 1280,
+    "height": 616,
+    "seconds": 16.7
+   }
+  ],
+  "datacore-booking": [
+   {
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260210_031346_d87182fb-b0af-4273-84d1-c6fd17d6bf0f.mp4",
+    "kind": "video",
+    "state": "ok",
+    "http": "206",
+    "repo": "assets/videos/Datacore_Booking_0.mp4",
+    "mb": 28.0,
+    "width": 1708,
+    "height": 1212,
+    "seconds": 10.1
+   }
+  ],
+  "datacore-saas-hero": [
+   {
+    "url": "https://stream.mux.com/4IMYGcL01xjs7ek5ANO17JC4VQVUTsojZlnw4fXzwSxc.m3u8",
+    "kind": "HLS",
+    "state": "dead",
+    "http": "403",
+    "repo": "assets/videos/AI_Designer_Agency_6.mp4",
+    "mb": 3.1,
+    "width": 1920,
+    "height": 1080,
+    "seconds": 16.0
+   },
+   {
+    "url": "https://customer-cbeadsgr09pnsezs.cloudflarestream.com/257c7359efd4b4aaebcc03aa8fc78a36/thumbnails/thumbnail.jpg",
+    "kind": "img",
+    "state": "dead",
+    "http": "404",
+    "repo": null
+   }
+  ],
+  "designpro-academy": [
+   {
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260328_105406_16f4600d-7a92-4292-b96e-b19156c7830a.mp4",
+    "kind": "video",
+    "state": "ok",
+    "http": "206",
+    "repo": "assets/videos/DesignPro_Academy_0.mp4",
+    "mb": 7.4,
+    "width": 1924,
+    "height": 1076,
+    "seconds": 10.0
+   }
+  ],
+  "digitwist-ai-builder": [
+   {
+    "url": "https://stream.mux.com/T6oQJQ02cQ6N01TR6iHwZkKFkbepS34dkkIc9iukgy400g.m3u8",
+    "kind": "HLS",
+    "state": "dead",
+    "http": "403",
+    "repo": "assets/videos/Digitwist_AI_Builder_1.mp4",
+    "mb": 3.8,
+    "width": 1280,
+    "height": 720,
+    "seconds": 20.0
+   },
+   {
+    "url": "https://images.unsplash.com/photo-1647356191320-d7a1f80ca777?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxhYnN0cmFjdCUyMGRhcmslMjB0ZWNobm9sb2d5JTIwbmV1cmFsJTIwbmV0d29ya3xlbnwxfHx8fDE3Njg5NzIyNTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "kind": "img",
+    "state": "ok",
+    "http": "206",
+    "repo": null
+   }
+  ],
+  "e-commerce-website": [],
+  "ecovolta": [
+   {
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260402_161801_19c1f902-b569-4d42-87b0-4de571a14399.mp4",
+    "kind": "video",
+    "state": "ok",
+    "http": "206",
+    "repo": null
+   },
+   {
+    "url": "https://images.higgs.ai/?default=1&output=webp&url=https%3A%2F%2Fd8j0ntlcm91z4.cloudfront.net%2Fuser_38xzZboKViGWJOttwIXH07lWA1P%2Fhf_20260404_181959_c031059f-0b95-4099-89ca-105c74073dd7.png&w=1280&q=85",
+    "kind": "img",
+    "state": "ok",
+    "http": "206",
+    "repo": null
+   },
+   {
+    "url": "https://images.higgs.ai/?default=1&output=webp&url=https%3A%2F%2Fd8j0ntlcm91z4.cloudfront.net%2Fuser_38xzZboKViGWJOttwIXH07lWA1P%2Fhf_20260404_181856_0904710c-03e6-460d-86ac-9acc0958001f.png&w=1280&q=85",
+    "kind": "img",
+    "state": "ok",
+    "http": "206",
+    "repo": null
+   },
+   {
+    "url": "https://images.higgs.ai/?default=1&output=webp&url=https%3A%2F%2Fd8j0ntlcm91z4.cloudfront.net%2Fuser_38xzZboKViGWJOttwIXH07lWA1P%2Fhf_20260404_182114_826e4e5d-c7c6-425f-a72b-0410be243f72.png&w=1280&q=85",
+    "kind": "img",
+    "state": "ok",
+    "http": "206",
+    "repo": null
+   }
+  ],
+  "ecovolta-v2": [
+   {
+    "url": "https://stream.mux.com/02gzwandixH4J534bd00JsCvlFfw6ha101WQ00C9b3sGibM.m3u8",
+    "kind": "HLS",
+    "state": "dead",
+    "http": "403",
+    "repo": null
+   }
+  ],
+  "evr-ventures": [
+   {
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260324_024928_1efd0b0d-6c02-45a8-8847-1030900c4f63.mp4",
+    "kind": "video",
+    "state": "ok",
+    "http": "206",
+    "repo": "assets/videos/EVR_Ventures_0.mp4",
+    "mb": 7.2,
+    "width": 1924,
+    "height": 1076,
+    "seconds": 10.0
+   }
+  ],
+  "finlytic-ai-agent": [
+   {
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260215_121759_424f8e9c-d8bd-4974-9567-52709dfb6842.mp4",
+    "kind": "video",
+    "state": "ok",
+    "http": "206",
+    "repo": "assets/videos/Finlytic_AI_Agent_0.mp4",
+    "mb": 7.9,
+    "width": 1664,
+    "height": 1244,
+    "seconds": 5.0
+   }
+  ],
+  "focus-ai": [
+   {
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260324_151826_c7218672-6e92-402c-9e45-f1e0f454bdc4.mp4",
+    "kind": "video",
+    "state": "ok",
+    "http": "206",
+    "repo": "assets/videos/Mindloop_0.mp4",
+    "mb": 17.1,
+    "width": 1928,
+    "height": 1076,
+    "seconds": 13.0
+   },
+   {
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260314_131748_f2ca2a28-fed7-44c8-b9a9-bd9acdd5ec31.mp4",
+    "kind": "video",
+    "state": "ok",
+    "http": "206",
+    "repo": "assets/videos/Velorah_0.mp4",
+    "mb": 14.1,
+    "width": 1924,
+    "height": 1076,
+    "seconds": 12.0
+   },
+   {
+    "url": "https://stream.mux.com/9njY8qDfS02Uvbll018C8CK39p5EksK7mn02DDC1zYvppI.m3u8",
+    "kind": "HLS",
+    "state": "dead",
+    "http": "403",
+    "repo": null
+   },
+   {
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260306_074215_04640ca7-042c-45d6-bb56-58b1e8a42489.mp4",
+    "kind": "video",
+    "state": "ok",
+    "http": "206",
+    "repo": "assets/videos/Buzzentic_Agency_0.mp4",
+    "mb": 4.8,
+    "width": 1912,
+    "height": 1080,
+    "seconds": 10.0
+   }
+  ],
+  "framelix-3d-studios": [
+   {
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260223_060517_9feec9ab-18e4-477a-b034-de5903a67e91.mp4",
+    "kind": "video",
+    "state": "ok",
+    "http": "206",
+    "repo": "assets/videos/Framelix_3D_Studios_0.mp4",
+    "mb": 14.5,
+    "width": 1088,
+    "height": 720,
+    "seconds": 15.0
+   },
+   {
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260223_063954_03a5f7ec-5f10-4acb-ba8d-dce4815217db.mp4",
+    "kind": "video",
+    "state": "ok",
+    "http": "206",
+    "repo": "assets/videos/Framelix_3D_Studios_1.mp4",
+    "mb": 3.3,
+    "width": 960,
+    "height": 720,
+    "seconds": 9.0
+   }
+  ],
+  "glassmorphism-agency-hero": [
+   {
+    "url": "https://customer-cbeadsgr09pnsezs.cloudflarestream.com/697945ca6b876878dba3b23fbd2f1561/manifest/video.m3u8",
+    "kind": "HLS",
+    "state": "dead",
+    "http": "404",
+    "repo": null
+   },
+   {
+    "url": "https://html.tailus.io/blocks/customers/openai.svg",
+    "kind": "img",
+    "state": "ok",
+    "http": "206",
+    "repo": null
+   },
+   {
+    "url": "https://html.tailus.io/blocks/customers/nvidia.svg",
+    "kind": "img",
+    "state": "ok",
+    "http": "206",
+    "repo": null
+   }
+  ],
+  "grow-ai-talent-platform": [
+   {
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260308_114720_3dabeb9e-2c39-4907-b747-bc3544e2d5b7.mp4",
+    "kind": "video",
+    "state": "ok",
+    "http": "206",
+    "repo": "assets/videos/Apex_SaaS_0.mp4",
+    "mb": 12.0,
+    "width": 1928,
+    "height": 1076,
+    "seconds": 10.0
+   }
+  ],
+  "guardnet": [
+   {
+    "url": "https://db.onlinewebfonts.com/c/e55e9079ee863276569c8a68d776ef04?family=Futura+Md+BT+Medium",
+    "kind": "font",
+    "state": "ok",
+    "http": "200",
+    "repo": null
+   },
+   {
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260421_074215_f4339e1c-0b1a-4f60-98b2-90e3d7840cb7.mp4",
+    "kind": "video",
+    "state": "ok",
+    "http": "206",
+    "repo": null
+   },
+   {
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260421_072418_508a7d2e-396d-4f6f-9d42-ec920fcf7755.mp4",
+    "kind": "video",
+    "state": "ok",
+    "http": "206",
+    "repo": null
+   },
+   {
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260421_072701_f6a01abb-eb30-4559-9d6e-774362defbc3.mp4",
+    "kind": "video",
+    "state": "ok",
+    "http": "206",
+    "repo": null
+   }
+  ],
+  "hr-saas-hero": [
+   {
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260302_085640_276ea93b-d7da-4418-a09b-2aa5b490e838.mp4",
+    "kind": "video",
+    "state": "ok",
+    "http": "206",
+    "repo": "assets/videos/HR_SaaS_Hero_0.mp4",
+    "mb": 5.1,
+    "width": 1928,
+    "height": 1072,
+    "seconds": 7.0
+   }
+  ],
+  "impressive-hero": [
+   {
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260423_084718_72a17915-4964-4059-afcd-22d59399b72e.mp4",
+    "kind": "video",
+    "state": "ok",
+    "http": "206",
+    "repo": null
+   }
+  ],
+  "investor-deck": [
+   {
+    "url": "https://stream.mux.com/Aa02T7oM1wH5Mk5EEVDYhbZ1ChcdhRsS2m1NYyx4Ua1g.m3u8",
+    "kind": "HLS",
+    "state": "dead",
+    "http": "403",
+    "repo": "assets/videos/Investor_Deck_0.mp4",
+    "mb": 2.9,
+    "width": 1522,
+    "height": 1080,
+    "seconds": 9.2
+   },
+   {
+    "url": "https://stream.mux.com/s8pMcOvMQXc4GD6AX4e1o01xFogFxipmuKltNfSYza0200.m3u8",
+    "kind": "HLS",
+    "state": "dead",
+    "http": "403",
+    "repo": "assets/videos/Investor_Deck_1.mp4",
+    "mb": 1.4,
+    "width": 1280,
+    "height": 668,
+    "seconds": 11.8
+   },
+   {
+    "url": "https://stream.mux.com/Gs3wZfrtz6ZfqZqQ02c02Z7lugV00FGZvRpcqFTel66r3g.m3u8",
+    "kind": "HLS",
+    "state": "dead",
+    "http": "403",
+    "repo": "assets/videos/Dark_Portfolio_Hero_0.mp4",
+    "mb": 1.7,
+    "width": 1280,
+    "height": 616,
+    "seconds": 16.7
+   },
+   {
+    "url": "https://stream.mux.com/PkFsoKeakRLgL01gjf02CRcSbsJ600Z00NvLr9eRZ92pLbA.m3u8",
+    "kind": "HLS",
+    "state": "dead",
+    "http": "403",
+    "repo": "assets/videos/Investor_Deck_3.mp4",
+    "mb": 0.5,
+    "width": 2210,
+    "height": 1080,
+    "seconds": 12.0
+   },
+   {
+    "url": "https://stream.mux.com/BuGGTsiXq1T00WUb8qfURrHkTCbhrkfFLSv4uAOZzdhw.m3u8",
+    "kind": "HLS",
+    "state": "dead",
+    "http": "403",
+    "repo": "assets/videos/Investor_Deck_4.mp4",
+    "mb": 1.8,
+    "width": 964,
+    "height": 720,
+    "seconds": 6.2
+   }
+  ],
+  "liquid-glass-agency": [
+   {
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260307_083826_e938b29f-a43a-41ec-a153-3d4730578ab8.mp4",
+    "kind": "video",
+    "state": "ok",
+    "http": "206",
+    "repo": "assets/videos/Liquid_Glass_Agency_0.mp4",
+    "mb": 11.0,
+    "width": 1664,
+    "height": 1244,
+    "seconds": 10.0
+   },
+   {
+    "url": "https://stream.mux.com/9JXDljEVWYwWu01PUkAemafDugK89o01BR6zqJ3aS9u00A.m3u8",
+    "kind": "HLS",
+    "state": "dead",
+    "http": "403",
+    "repo": "assets/videos/Liquid_Glass_Agency_1.mp4",
+    "mb": 0.6,
+    "width": 1864,
+    "height": 1080,
+    "seconds": 5.2
+   },
+   {
+    "url": "https://stream.mux.com/NcU3HlHeF7CUL86azTTzpy3Tlb00d6iF3BmCdFslMJYM.m3u8",
+    "kind": "HLS",
+    "state": "dead",
+    "http": "403",
+    "repo": "assets/videos/Liquid_Glass_Agency_2.mp4",
+    "mb": 1.4,
+    "width": 1620,
+    "height": 1080,
+    "seconds": 10.2
+   },
+   {
+    "url": "https://stream.mux.com/8wrHPCX2dC3msyYU9ObwqNdm00u3ViXvOSHUMRYSEe5Q.m3u8",
+    "kind": "HLS",
+    "state": "dead",
+    "http": "403",
+    "repo": "assets/videos/Liquid_Glass_Agency_3.mp4",
+    "mb": 1.2,
+    "width": 1280,
+    "height": 720,
+    "seconds": 7.8
+   },
+   {
+    "url": "https://motionsites.ai/assets/hero-finlytic-preview-CV9g0FHP.gif",
+    "kind": "img",
+    "state": "ok",
+    "http": "206",
+    "repo": null
+   },
+   {
+    "url": "https://motionsites.ai/assets/hero-wealth-preview-B70idl_u.gif",
+    "kind": "img",
+    "state": "ok",
+    "http": "206",
+    "repo": "assets/images/AI_Designer_Agency_3.gif"
+   }
+  ],
+  "loader-animation": [],
+  "logoisum-video-agency": [
+   {
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260228_065522_522e2295-ba22-457e-8fdb-fbcd68109c73.mp4",
+    "kind": "video",
+    "state": "ok",
+    "http": "206",
+    "repo": "assets/videos/Logoisum_Video_Agency_0.mp4",
+    "mb": 12.4,
+    "width": 1928,
+    "height": 1072,
+    "seconds": 11.0
+   }
+  ],
+  "mindloop": [
+   {
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260324_151826_c7218672-6e92-402c-9e45-f1e0f454bdc4.mp4",
+    "kind": "video",
+    "state": "ok",
+    "http": "206",
+    "repo": "assets/videos/Mindloop_0.mp4",
+    "mb": 17.1,
+    "width": 1928,
+    "height": 1076,
+    "seconds": 13.0
+   }
+  ],
+  "mindloop-landing": [
+   {
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260325_120549_0cd82c36-56b3-4dd9-b190-069cfc3a623f.mp4",
+    "kind": "video",
+    "state": "ok",
+    "http": "206",
+    "repo": "assets/videos/Mindloop_Landing_0.mp4",
+    "mb": 22.2,
+    "width": 1624,
+    "height": 1276,
+    "seconds": 12.0
+   },
+   {
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260325_132944_a0d124bb-eaa1-4082-aa30-2310efb42b4b.mp4",
+    "kind": "video",
+    "state": "ok",
+    "http": "206",
+    "repo": "assets/videos/Mindloop_Landing_1.mp4",
+    "mb": 13.8,
+    "width": 1440,
+    "height": 1440,
+    "seconds": 12.0
+   },
+   {
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260325_125119_8e5ae31c-0021-4396-bc08-f7aebeb877a2.mp4",
+    "kind": "video",
+    "state": "ok",
+    "http": "206",
+    "repo": "assets/videos/Mindloop_Landing_2.mp4",
+    "mb": 6.5,
+    "width": 1088,
+    "height": 720,
+    "seconds": 12.0
+   },
+   {
+    "url": "https://stream.mux.com/8wrHPCX2dC3msyYU9ObwqNdm00u3ViXvOSHUMRYSEe5Q.m3u8",
+    "kind": "HLS",
+    "state": "dead",
+    "http": "403",
+    "repo": "assets/videos/Liquid_Glass_Agency_3.mp4",
+    "mb": 1.2,
+    "width": 1280,
+    "height": 720,
+    "seconds": 7.8
+   }
+  ],
+  "neovision": [
+   {
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260314_131232_feeda0b7-d00d-4bfa-a9d5-5d38648a4214.mp4",
+    "kind": "video",
+    "state": "ok",
+    "http": "206",
+    "repo": "assets/videos/NeoVision_0.mp4",
+    "mb": 6.1,
+    "width": 1664,
+    "height": 1244,
+    "seconds": 10.0
+   },
+   {
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260314_132809_d6ea910f-d700-44f7-afea-27d517487177.mp4",
+    "kind": "video",
+    "state": "ok",
+    "http": "206",
+    "repo": "assets/videos/NeoVision_1.mp4",
+    "mb": 6.8,
+    "width": 1504,
+    "height": 1376,
+    "seconds": 10.0
+   }
+  ],
+  "neuralyn": [
+   {
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260307_083826_e938b29f-a43a-41ec-a153-3d4730578ab8.mp4",
+    "kind": "video",
+    "state": "ok",
+    "http": "206",
+    "repo": "assets/videos/Liquid_Glass_Agency_0.mp4",
+    "mb": 11.0,
+    "width": 1664,
+    "height": 1244,
+    "seconds": 10.0
+   }
+  ],
+  "new-era-automotive-hero": [
+   {
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260213_051817_c7d8ccc6-bfaa-417c-8474-e5cefeea26b4.mp4",
+    "kind": "video",
+    "state": "ok",
+    "http": "206",
+    "repo": "assets/videos/New_Era_Automotive_Hero_0.mp4",
+    "mb": 3.9,
+    "width": 1764,
+    "height": 1176,
+    "seconds": 10.0
+   }
+  ],
+  "new-era-bold-hero": [
+   {
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260206_044704_dd33cb15-c23f-4cfc-aa09-a0465d4dcb54.mp4",
+    "kind": "video",
+    "state": "ok",
+    "http": "206",
+    "repo": "assets/videos/New_Era_Bold_Hero_0.mp4",
+    "mb": 12.8,
+    "width": 1704,
+    "height": 1212,
+    "seconds": 10.0
+   }
+  ],
+  "nexacore": [
+   {
+    "url": "https://db.onlinewebfonts.com/t/eb5b5ee332420add9a40ee988cb6ac37.woff2",
+    "kind": "font",
+    "state": "ok",
+    "http": "206",
+    "repo": null
+   },
+   {
+    "url": "https://db.onlinewebfonts.com/t/875fffdfa62169a0f131e90f37f1faf4.woff2",
+    "kind": "font",
+    "state": "ok",
+    "http": "206",
+    "repo": null
+   },
+   {
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260418_115655_b4d9cd77-feed-43cd-a198-af78ebdf1f7a.mp4",
+    "kind": "video",
+    "state": "ok",
+    "http": "206",
+    "repo": null
+   },
+   {
+    "url": "https://images.higgs.ai/?default=1&output=webp&url=https%3A%2F%2Fd8j0ntlcm91z4.cloudfront.net%2Fuser_38xzZboKViGWJOttwIXH07lWA1P%2Fhf_20260418_120332_3b24257a-afe6-48ca-875f-78147370f403.png&w=1280&q=85",
+    "kind": "img",
+    "state": "ok",
+    "http": "206",
+    "repo": null
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/6720dd1ab6df0da205830ab1/682c7cb62b8800a7594c5abd_hover_card_img.png",
+    "kind": "img",
+    "state": "ok",
+    "http": "206",
+    "repo": null
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/6720dd1ab6df0da205830ab1/683ef70a24657b10be91ef49_bullet-list.svg",
+    "kind": "img",
+    "state": "ok",
+    "http": "206",
+    "repo": null
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/6720dd1ab6df0da205830ab1/686cc0f520a992816d8b15dc_bullet-list-cross.svg",
+    "kind": "img",
+    "state": "ok",
+    "http": "206",
+    "repo": null
+   },
+   {
+    "url": "https://stream.mux.com/bnYL6x5cAX6WiJv2pOKpITehZd3NVdXpj3ylJFpX5Lk.m3u8",
+    "kind": "HLS",
+    "state": "dead",
+    "http": "403",
+    "repo": null
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/6720dd1ab6df0da205830ab1/686cc068490683bbb3377d04_bullet-list.svg",
+    "kind": "img",
+    "state": "ok",
+    "http": "206",
+    "repo": null
+   },
+   {
+    "url": "https://images.higgs.ai/?default=1&output=webp&url=https%3A%2F%2Fd8j0ntlcm91z4.cloudfront.net%2Fuser_38xzZboKViGWJOttwIXH07lWA1P%2Fhf_20260418_125638_553b96dc-a1fd-4b2b-81a9-ed7daa80006e.png&w=1280&q=85",
+    "kind": "img",
+    "state": "ok",
+    "http": "206",
+    "repo": null
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/6720dd1ab6df0da205830ab1/6870f623cf3df417ce45df05_icon%20logo%20eternacloud.png",
+    "kind": "img",
+    "state": "ok",
+    "http": "206",
+    "repo": null
+   }
+  ],
+  "nexar": [
+   {
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260403_054410_6b17f7f9-d11e-44f1-90b0-75ee563d1971.mp4",
+    "kind": "video",
+    "state": "ok",
+    "http": "206",
+    "repo": null
+   },
+   {
+    "url": "https://images.higgs.ai/?default=1&output=webp&url=https%3A%2F%2Fd8j0ntlcm91z4.cloudfront.net%2Fuser_38xzZboKViGWJOttwIXH07lWA1P%2Fhf_20260403_075317_744395c6-7168-48c6-a1f6-5b9b7bd58f87.png&w=1280&q=85",
+    "kind": "img",
+    "state": "ok",
+    "http": "206",
+    "repo": null
+   },
+   {
+    "url": "https://images.higgs.ai/?default=1&output=webp&url=https%3A%2F%2Fd8j0ntlcm91z4.cloudfront.net%2Fuser_38xzZboKViGWJOttwIXH07lWA1P%2Fhf_20260403_075333_2caea84e-742e-4846-9284-ed8532c44c99.png&w=1280&q=85",
+    "kind": "img",
+    "state": "ok",
+    "http": "206",
+    "repo": null
+   },
+   {
+    "url": "https://images.higgs.ai/?default=1&output=webp&url=https%3A%2F%2Fd8j0ntlcm91z4.cloudfront.net%2Fuser_38xzZboKViGWJOttwIXH07lWA1P%2Fhf_20260403_075354_70a33cfd-3c9c-45ef-a7bb-d371cb8aa0af.png&w=1280&q=85",
+    "kind": "img",
+    "state": "ok",
+    "http": "206",
+    "repo": null
+   },
+   {
+    "url": "https://images.higgs.ai/?default=1&output=webp&url=https%3A%2F%2Fd8j0ntlcm91z4.cloudfront.net%2Fuser_38xzZboKViGWJOttwIXH07lWA1P%2Fhf_20260403_055416_630ff6c1-4b72-4cb6-a563-0c7e41124fe1.png&w=1280&q=85",
+    "kind": "img",
+    "state": "ok",
+    "http": "206",
+    "repo": null
+   }
+  ],
+  "nexora-automation": [
+   {
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260319_015952_e1deeb12-8fb7-4071-a42a-60779fc64ab6.mp4",
+    "kind": "video",
+    "state": "ok",
+    "http": "206",
+    "repo": "assets/videos/Nexora_Automation_0.mp4",
+    "mb": 18.5,
+    "width": 1920,
+    "height": 1080,
+    "seconds": 8.0
+   }
+  ],
+  "nexus-it-solutions": [
+   {
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260324_065810_0098b193-498c-4d26-9abd-5db8bf4fb479.mp4",
+    "kind": "video",
+    "state": "ok",
+    "http": "206",
+    "repo": "assets/videos/Nexus_IT_Solutions_0.mp4",
+    "mb": 14.3,
+    "width": 1924,
+    "height": 1076,
+    "seconds": 10.0
+   }
+  ],
+  "nickel-payments": [
+   {
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260319_192508_4eecde4c-f835-4f4b-b255-eafd1156da99.mp4",
+    "kind": "video",
+    "state": "ok",
+    "http": "206",
+    "repo": "assets/videos/Nickel_Payments_0.mp4",
+    "mb": 8.7,
+    "width": 1440,
+    "height": 1440,
+    "seconds": 10.0
+   }
+  ],
+  "nike-premium-landing": [
+   {
+    "url": "https://github.com/dsMagnatov/Acreage-landing-assets/blob/main/0098888.jpg?raw=true",
+    "kind": "img",
+    "state": "unverified",
+    "http": "403",
+    "repo": null
+   },
+   {
+    "url": "https://pikaso.cdnpk.net/private/production/4021778466/80a7f7ef-643d-40bc-b533-1e86f159d653-0.mp4?token=exp=1777075200~hmac=91d86c3600a89e923130fce0912dcfb0de81f05f2cde5fc77c30f3e7ae094342",
+    "kind": "video",
+    "state": "dead",
+    "http": "403",
+    "repo": null
+   },
+   {
+    "url": "https://github.com/dsMagnatov/Acreage-landing-assets/blob/main/02604201313.png?raw=true",
+    "kind": "img",
+    "state": "unverified",
+    "http": "403",
+    "repo": null
+   },
+   {
+    "url": "https://pikaso.cdnpk.net/private/production/4024859125/d070ae9c-55df-47aa-acbe-4ee66337855c-0.mp4?token=exp=1777075200~hmac=4202c1d0ec90137eb6dffa8e0db93ed7569a68b2016165d8b1b567f888869ff5",
+    "kind": "video",
+    "state": "dead",
+    "http": "403",
+    "repo": null
+   }
+  ],
+  "nova-space-systems": [
+   {
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260324_031824_0c85e1e9-fe2b-4d52-8cde-25b0c2b5e8a2.mp4",
+    "kind": "video",
+    "state": "dead",
+    "http": "403",
+    "repo": null
+   },
+   {
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260324_032431_5e054107-51c0-4162-9f0f-3a40054761ef.mp4",
+    "kind": "video",
+    "state": "ok",
+    "http": "206",
+    "repo": "assets/videos/NOVA_Space_Systems_1.mp4",
+    "mb": 9.8,
+    "width": 1440,
+    "height": 1440,
+    "seconds": 10.0
+   },
+   {
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260324_032535_4ccc152e-0cc8-4ee5-a698-e1a98cea8a1e.mp4",
+    "kind": "video",
+    "state": "ok",
+    "http": "206",
+    "repo": "assets/videos/NOVA_Space_Systems_2.mp4",
+    "mb": 16.3,
+    "width": 1440,
+    "height": 1440,
+    "seconds": 10.0
+   }
+  ],
+  "orbis-nft": [
+   {
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260331_045634_e1c98c76-1265-4f5c-882a-4276f2080894.mp4",
+    "kind": "video",
+    "state": "ok",
+    "http": "206",
+    "repo": "assets/videos/Orbis_NFT_0.mp4",
+    "mb": 18.5,
+    "width": 1860,
+    "height": 1112,
+    "seconds": 10.0
+   },
+   {
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260331_151551_992053d1-3d3e-4b8c-abac-45f22158f411.mp4",
+    "kind": "video",
+    "state": "ok",
+    "http": "206",
+    "repo": "assets/videos/Orbis_NFT_1.mp4",
+    "mb": 9.2,
+    "width": 1844,
+    "height": 1124,
+    "seconds": 10.0
+   },
+   {
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260331_053923_22c0a6a5-313c-474c-85ff-3b50d25e944a.mp4",
+    "kind": "video",
+    "state": "ok",
+    "http": "206",
+    "repo": "assets/videos/Orbis_NFT_2.mp4",
+    "mb": 7.7,
+    "width": 1320,
+    "height": 1568,
+    "seconds": 10.0
+   },
+   {
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260331_054411_511c1b7a-fb2f-42ef-bf6c-32c0b1a06e79.mp4",
+    "kind": "video",
+    "state": "ok",
+    "http": "206",
+    "repo": "assets/videos/Orbis_NFT_3.mp4",
+    "mb": 17.4,
+    "width": 1320,
+    "height": 1568,
+    "seconds": 10.0
+   },
+   {
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260331_055427_ac7035b5-9f3b-4289-86fc-941b2432317d.mp4",
+    "kind": "video",
+    "state": "ok",
+    "http": "206",
+    "repo": "assets/videos/Orbis_NFT_4.mp4",
+    "mb": 6.7,
+    "width": 1320,
+    "height": 1568,
+    "seconds": 10.0
+   },
+   {
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260331_055729_72d66327-b59e-4ae9-bb70-de6ccb5ecdb0.mp4",
+    "kind": "video",
+    "state": "ok",
+    "http": "206",
+    "repo": "assets/videos/Orbis_NFT_5.mp4",
+    "mb": 13.9,
+    "width": 1784,
+    "height": 1160,
+    "seconds": 10.0
+   }
+  ],
+  "orbit-engineers": [
+   {
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260314_190803_f5595254-156c-4d10-ad09-51a56eb4bc1e.mp4",
+    "kind": "video",
+    "state": "ok",
+    "http": "206",
+    "repo": "assets/videos/Orbit_Engineers_0.mp4",
+    "mb": 7.1,
+    "width": 1928,
+    "height": 1076,
+    "seconds": 8.0
+   },
+   {
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260314_204728_2dbcd1c4-63bc-4779-b06c-b7e2d5788ea7.mp4",
+    "kind": "video",
+    "state": "ok",
+    "http": "206",
+    "repo": "assets/videos/Orbit_Engineers_1.mp4",
+    "mb": 7.5,
+    "width": 1928,
+    "height": 1076,
+    "seconds": 10.0
+   },
+   {
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260314_210050_14d4d9cf-782b-4f6f-9764-08d793cf427c.mp4",
+    "kind": "video",
+    "state": "ok",
+    "http": "206",
+    "repo": "assets/videos/Orbit_Engineers_2.mp4",
+    "mb": 8.8,
+    "width": 1928,
+    "height": 1076,
+    "seconds": 10.0
+   }
+  ],
+  "orbit-web3": [
+   {
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260325_094440_a3592600-bd1e-49e5-9bce-a73662061d83.mp4",
+    "kind": "video",
+    "state": "ok",
+    "http": "206",
+    "repo": "assets/videos/Orbit_Web3_0.mp4",
+    "mb": 12.1,
+    "width": 1924,
+    "height": 1076,
+    "seconds": 10.0
+   }
+  ],
+  "planet-orbit": [
+   {
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260309_042944_4a2205b7-b061-490a-852b-92d9e9955ce9.mp4",
+    "kind": "video",
+    "state": "ok",
+    "http": "206",
+    "repo": "assets/videos/Planet_Orbit_0.mp4",
+    "mb": 16.6,
+    "width": 1464,
+    "height": 1412,
+    "seconds": 15.0
+   }
+  ],
+  "portfolio-cosmic": [
+   {
+    "url": "https://stream.mux.com/Aa02T7oM1wH5Mk5EEVDYhbZ1ChcdhRsS2m1NYyx4Ua1g.m3u8",
+    "kind": "HLS",
+    "state": "dead",
+    "http": "403",
+    "repo": "assets/videos/Investor_Deck_0.mp4",
+    "mb": 2.9,
+    "width": 1522,
+    "height": 1080,
+    "seconds": 9.2
+   }
+  ],
+  "power-ai": [
+   {
+    "url": "https://api.fontshare.com/v2/css?f[]=general-sans@400,500,600,700&display=swap",
+    "kind": "font",
+    "state": "ok",
+    "http": "200",
+    "repo": null
+   },
+   {
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260328_065045_c44942da-53c6-4804-b734-f9e07fc22e08.mp4",
+    "kind": "video",
+    "state": "ok",
+    "http": "206",
+    "repo": "assets/videos/Power_AI_0.mp4",
+    "mb": 13.2,
+    "width": 1764,
+    "height": 1176,
+    "seconds": 14.0
+   }
+  ],
+  "price-calculator": [],
+  "pro-ai-deck": [
+   {
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260411_104229_49794008-3d16-4cb6-9a8c-73d7751b0e79.mp4",
+    "kind": "video",
+    "state": "ok",
+    "http": "206",
+    "repo": null
+   },
+   {
+    "url": "https://stream.mux.com/9JXDljEVWYwWu01PUkAemafDugK89o01BR6zqJ3aS9u00A.m3u8",
+    "kind": "HLS",
+    "state": "dead",
+    "http": "403",
+    "repo": "assets/videos/Liquid_Glass_Agency_1.mp4",
+    "mb": 0.6,
+    "width": 1864,
+    "height": 1080,
+    "seconds": 5.2
+   },
+   {
+    "url": "https://stream.mux.com/s8pMcOvMQXc4GD6AX4e1o01xFogFxipmuKltNfSYza0200.m3u8",
+    "kind": "HLS",
+    "state": "dead",
+    "http": "403",
+    "repo": "assets/videos/Investor_Deck_1.mp4",
+    "mb": 1.4,
+    "width": 1280,
+    "height": 668,
+    "seconds": 11.8
+   },
+   {
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260302_085844_21a8f4b3-dea5-4ede-be16-d53f6973bb14.mp4",
+    "kind": "video",
+    "state": "ok",
+    "http": "206",
+    "repo": null
+   },
+   {
+    "url": "https://stream.mux.com/T6oQJQ02cQ6N01TR6iHwZkKFkbepS34dkkIc9iukgy400g.m3u8",
+    "kind": "HLS",
+    "state": "dead",
+    "http": "403",
+    "repo": "assets/videos/Digitwist_AI_Builder_1.mp4",
+    "mb": 3.8,
+    "width": 1280,
+    "height": 720,
+    "seconds": 20.0
+   },
+   {
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260411_104032_69319010-2458-492b-b04d-b40a5dfa4482.mp4",
+    "kind": "video",
+    "state": "ok",
+    "http": "206",
+    "repo": null
+   },
+   {
+    "url": "https://stream.mux.com/NcU3HlHeF7CUL86azTTzpy3Tlb00d6iF3BmCdFslMJYM.m3u8",
+    "kind": "HLS",
+    "state": "dead",
+    "http": "403",
+    "repo": "assets/videos/Liquid_Glass_Agency_2.mp4",
+    "mb": 1.4,
+    "width": 1620,
+    "height": 1080,
+    "seconds": 10.2
+   },
+   {
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260406_094145_4a271a6c-3869-4f1c-8aa7-aeb0cb227994.mp4",
+    "kind": "video",
+    "state": "ok",
+    "http": "206",
+    "repo": null
+   },
+   {
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260324_024928_1efd0b0d-6c02-45a8-8847-1030900c4f63.mp4",
+    "kind": "video",
+    "state": "ok",
+    "http": "206",
+    "repo": "assets/videos/EVR_Ventures_0.mp4",
+    "mb": 7.2,
+    "width": 1924,
+    "height": 1076,
+    "seconds": 10.0
+   }
+  ],
+  "railroad-ai": [
+   {
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260317_100335_dc625816-c3c1-4b00-b93e-4cb301cf5ea5.mp4",
+    "kind": "video",
+    "state": "ok",
+    "http": "206",
+    "repo": "assets/videos/Railroad.ai_0.mp4",
+    "mb": 11.8,
+    "width": 1928,
+    "height": 1072,
+    "seconds": 9.0
+   }
+  ],
+  "skyelite-private-jets": [
+   {
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260328_091828_e240eb17-6edc-4129-ad9d-98678e3fd238.mp4",
+    "kind": "video",
+    "state": "ok",
+    "http": "206",
+    "repo": "assets/videos/SkyElite_Private_Jets_0.mp4",
+    "mb": 10.4,
+    "width": 1924,
+    "height": 1076,
+    "seconds": 10.0
+   }
+  ],
+  "slate": [
+   {
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260425_081506_cfddbdab-90d5-49b8-aa1a-8f52de33d335.mp4",
+    "kind": "video",
+    "state": "ok",
+    "http": "206",
+    "repo": null
+   }
+  ],
+  "social-media-posts": [
+   {
+    "url": "https://media.cleanshot.cloud/media/21620/LCl5ZplnQ16cj11YhT3EoWIj6Tfpndn3OEd9I1e4.jpeg?Expires=1775649006&Signature=n3nir~OV2wZrAh~Yw8rkuVkFKm0gABTt8LqemBwvbCWoeMbn4-fcW~FEbzlhutQ7k9i9EZWqNRW4~XSoX6QnyzBv6MzFCfc0gEuKGOI6Bb7bD-ExdwZKuGDGIqRuwG7fRSHfVrl4HimKHJt9zj~NeY6-evt6HjBdEmb4sA5mWOefxDqMfWZZrUZseo0PxYnnggxHvzcdfclviUMo~A-mH8qa9MgqcRWWAp-sk6t8qM8UP0MvWkOCKFzD1-yAm4UUmy2RHtp9UiD2LFk47SjZV~4OQN~4Ogm30DBe74mkFR0-~RkPLb-M3z3UVlUNhScSI1LmMCfiK5JptwlCmFflRA__&Key-Pair-Id=K269JMAT9ZF4GZ",
+    "kind": "img",
+    "state": "dead",
+    "http": "403",
+    "repo": null
+   },
+   {
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260407_080531_1fe9b14c-9396-4b78-9372-42f4ddbd74c7.mp4",
+    "kind": "video",
+    "state": "ok",
+    "http": "206",
+    "repo": null
+   },
+   {
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260307_083826_e938b29f-a43a-41ec-a153-3d4730578ab8.mp4",
+    "kind": "video",
+    "state": "ok",
+    "http": "206",
+    "repo": "assets/videos/Liquid_Glass_Agency_0.mp4",
+    "mb": 11.0,
+    "width": 1664,
+    "height": 1244,
+    "seconds": 10.0
+   },
+   {
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260330_153826_e9005cf7-a1c7-4c7d-886f-fea22d644a9c.mp4",
+    "kind": "video",
+    "state": "ok",
+    "http": "206",
+    "repo": "assets/videos/Sync_AI_0.mp4",
+    "mb": 23.4,
+    "width": 1924,
+    "height": 1076,
+    "seconds": 10.0
+   },
+   {
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260324_151826_c7218672-6e92-402c-9e45-f1e0f454bdc4.mp4",
+    "kind": "video",
+    "state": "ok",
+    "http": "206",
+    "repo": "assets/videos/Mindloop_0.mp4",
+    "mb": 17.1,
+    "width": 1928,
+    "height": 1076,
+    "seconds": 13.0
+   },
+   {
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260328_083109_283f3553-e28f-428b-a723-d639c617eb2b.mp4",
+    "kind": "video",
+    "state": "ok",
+    "http": "206",
+    "repo": "assets/videos/Aethera_Studio_0.mp4",
+    "mb": 30.4,
+    "width": 1928,
+    "height": 1072,
+    "seconds": 14.0
+   },
+   {
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260315_073750_51473149-4350-4920-ae24-c8214286f323.mp4",
+    "kind": "video",
+    "state": "ok",
+    "http": "206",
+    "repo": "assets/videos/Bloom_AI_0.mp4",
+    "mb": 12.4,
+    "width": 1756,
+    "height": 1176,
+    "seconds": 10.0
+   }
+  ],
+  "space-voyage": [
+   {
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260306_115329_5e00c9c5-4d69-49b7-94c3-9c31c60bb644.mp4",
+    "kind": "video",
+    "state": "ok",
+    "http": "206",
+    "repo": "assets/videos/Space_Voyage_1.mp4",
+    "mb": 17.6,
+    "width": 1924,
+    "height": 1076,
+    "seconds": 10.0
+   }
+  ],
+  "stellar-ai": [
+   {
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260319_165750_358b1e72-c921-48b7-aaac-f200994f32fb.mp4",
+    "kind": "video",
+    "state": "ok",
+    "http": "206",
+    "repo": "assets/videos/Stellar_AI_0.mp4",
+    "mb": 12.9,
+    "width": 1756,
+    "height": 1176,
+    "seconds": 10.0
+   }
+  ],
+  "synapse-dark-hero": [
+   {
+    "url": "https://stream.mux.com/9JXDljEVWYwWu01PUkAemafDugK89o01BR6zqJ3aS9u00A.m3u8",
+    "kind": "HLS",
+    "state": "dead",
+    "http": "403",
+    "repo": "assets/videos/Liquid_Glass_Agency_1.mp4",
+    "mb": 0.6,
+    "width": 1864,
+    "height": 1080,
+    "seconds": 5.2
+   }
+  ],
+  "sync-ai": [
+   {
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260330_153826_e9005cf7-a1c7-4c7d-886f-fea22d644a9c.mp4",
+    "kind": "video",
+    "state": "ok",
+    "http": "206",
+    "repo": "assets/videos/Sync_AI_0.mp4",
+    "mb": 23.4,
+    "width": 1924,
+    "height": 1076,
+    "seconds": 10.0
+   }
+  ],
+  "targo-logistics-hero": [
+   {
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260227_042027_c4b2f2ea-1c7c-4d6e-9e3d-81a78063703f.mp4",
+    "kind": "video",
+    "state": "ok",
+    "http": "206",
+    "repo": "assets/videos/Targo_Logistics_Hero_0.mp4",
+    "mb": 11.3,
+    "width": 960,
+    "height": 720,
+    "seconds": 15.0
+   }
+  ],
+  "taskly": [
+   {
+    "url": "https://future.co/images/homepage/glassy-orb/orb-purple.webm",
+    "kind": "video",
+    "state": "ok",
+    "http": "206",
+    "repo": "assets/videos/Taskly_0.webm",
+    "mb": 0.5,
+    "width": 500,
+    "height": 500,
+    "seconds": 8.0
+   }
+  ],
+  "taskora-saas-hero": [
+   {
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260201_052917_7fc4e418-3123-40bf-b5ba-394c28eb4b3a.mp4",
+    "kind": "video",
+    "state": "ok",
+    "http": "206",
+    "repo": "assets/videos/Taskora_SaaS_Hero_0.mp4",
+    "mb": 9.9,
+    "width": 1720,
+    "height": 1204,
+    "seconds": 10.0
+   }
+  ],
+  "terra-geo-map": [
+   {
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260325_092310_5c71bab5-63cd-4a95-9390-cc6a1189d553.mp4",
+    "kind": "video",
+    "state": "ok",
+    "http": "206",
+    "repo": "assets/videos/Terra_Geo_Map_0.mp4",
+    "mb": 22.6,
+    "width": 1764,
+    "height": 1176,
+    "seconds": 10.0
+   }
+  ],
+  "transform-data": [
+   {
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260329_050842_be71947f-f16e-4a14-810c-06e83d23ddb5.mp4",
+    "kind": "video",
+    "state": "ok",
+    "http": "206",
+    "repo": "assets/videos/Transform_Data_0.mp4",
+    "mb": 15.9,
+    "width": 1928,
+    "height": 1072,
+    "seconds": 11.0
+   }
+  ],
+  "urban-jungle": [
+   {
+    "url": "https://dirtylinestudio.com/wp-content/uploads/2022/05/Dirtyline-36daysoftype-2022.woff2",
+    "kind": "font",
+    "state": "ok",
+    "http": "206",
+    "repo": null
+   },
+   {
+    "url": "https://stream.mux.com/43NlHXsaMrmyzWamMk87m01fNyxSTekAD669BBAPBNm00.m3u8",
+    "kind": "HLS",
+    "state": "dead",
+    "http": "403",
+    "repo": null
+   }
+  ],
+  "veloce-finance": [
+   {
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260405_154629_a31a2372-bd54-4f7e-ac9b-21246141a664.mp4",
+    "kind": "video",
+    "state": "ok",
+    "http": "206",
+    "repo": null
+   },
+   {
+    "url": "https://images.higgs.ai/?default=1&output=webp&url=https%3A%2F%2Fd8j0ntlcm91z4.cloudfront.net%2Fuser_38xzZboKViGWJOttwIXH07lWA1P%2Fhf_20260405_154325_6e98dcdb-51ba-446a-8c52-2d2f2675a575.png&w=1280&q=85",
+    "kind": "img",
+    "state": "ok",
+    "http": "206",
+    "repo": null
+   },
+   {
+    "url": "https://images.higgs.ai/?default=1&output=webp&url=https%3A%2F%2Fd8j0ntlcm91z4.cloudfront.net%2Fuser_38xzZboKViGWJOttwIXH07lWA1P%2Fhf_20260405_154356_13de5dda-6dfe-4f54-b3e2-251301254578.png&w=1280&q=85",
+    "kind": "img",
+    "state": "ok",
+    "http": "206",
+    "repo": null
+   },
+   {
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260405_143605_bc7bd6c0-9c68-49ff-a9d3-073a10759fa4.mp4",
+    "kind": "video",
+    "state": "ok",
+    "http": "206",
+    "repo": null
+   },
+   {
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260405_145119_f4ec4d9f-3ecd-4116-baa3-26e8cf2df976.mp4",
+    "kind": "video",
+    "state": "ok",
+    "http": "206",
+    "repo": null
+   },
+   {
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260405_140728_ae719193-f10b-4105-82fc-c989610b3aa6.mp4",
+    "kind": "video",
+    "state": "ok",
+    "http": "206",
+    "repo": null
+   }
+  ],
+  "velorah": [
+   {
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260314_131748_f2ca2a28-fed7-44c8-b9a9-bd9acdd5ec31.mp4",
+    "kind": "video",
+    "state": "ok",
+    "http": "206",
+    "repo": "assets/videos/Velorah_0.mp4",
+    "mb": 14.1,
+    "width": 1924,
+    "height": 1076,
+    "seconds": 12.0
+   }
+  ],
+  "viktor-portfolio": [
+   {
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260304_101127_49ce07b7-f19a-4882-b19c-1d2a27d97ac3.mp4",
+    "kind": "video",
+    "state": "ok",
+    "http": "206",
+    "repo": "assets/videos/Viktor_Portfolio_0.mp4",
+    "mb": 1.5,
+    "width": 1612,
+    "height": 1284,
+    "seconds": 10.0
+   },
+   {
+    "url": "https://picsum.photos/seed/tech/200/200",
+    "kind": "img",
+    "state": "unverified",
+    "http": "000",
+    "repo": null
+   },
+   {
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260304_102019_f84678ca-ffe7-49a5-895a-75ac1f71ad46.mp4",
+    "kind": "video",
+    "state": "ok",
+    "http": "206",
+    "repo": "assets/videos/Viktor_Portfolio_1.mp4",
+    "mb": 11.1,
+    "width": 1756,
+    "height": 1176,
+    "seconds": 10.0
+   }
+  ],
+  "vitara": [
+   {
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260402_134434_5de46cb4-38e7-42a6-a8bc-6e62b2fd6c7b.mp4",
+    "kind": "video",
+    "state": "ok",
+    "http": "206",
+    "repo": null
+   }
+  ],
+  "wealth-video-hero": [
+   {
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260207_050933_33e2620d-09cd-43a2-80ef-4cdbb42f4194.mp4",
+    "kind": "video",
+    "state": "ok",
+    "http": "206",
+    "repo": "assets/videos/Wealth_Video_Hero_0.mp4",
+    "mb": 24.0,
+    "width": 3840,
+    "height": 2160,
+    "seconds": 8.0
+   }
+  ],
+  "web3-eos-hero": [
+   {
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260217_030345_246c0224-10a4-422c-b324-070b7c0eceda.mp4",
+    "kind": "video",
+    "state": "ok",
+    "http": "206",
+    "repo": "assets/videos/Web3_EOS_Hero_0.mp4",
+    "mb": 14.8,
+    "width": 1708,
+    "height": 1212,
+    "seconds": 9.0
+   }
+  ],
+  "weblex-dark-hero": [
+   {
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260221_085953_8463b46e-ba85-4bb7-912a-1feaf346e970.mp4",
+    "kind": "video",
+    "state": "ok",
+    "http": "206",
+    "repo": "assets/videos/Weblex_Dark_Hero_0.mp4",
+    "mb": 10.9,
+    "width": 1088,
+    "height": 720,
+    "seconds": 12.0
+   }
+  ],
+  "xportfolio-hero": [
+   {
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260328_102305_3a7cab3b-7a86-46e8-a0f9-6937f035b087.mp4",
+    "kind": "video",
+    "state": "ok",
+    "http": "206",
+    "repo": "assets/videos/xPortfolio_Hero_0.mp4",
+    "mb": 4.6,
+    "width": 1924,
+    "height": 1076,
+    "seconds": 10.0
+   }
+  ],
+  "yacht-club": [
+   {
+    "url": "https://player.vimeo.com/video/1184061018?background=1&autoplay=1&loop=1&byline=0&title=0",
+    "kind": "embed",
+    "state": "unverified",
+    "http": "401",
+    "repo": null
+   },
+   {
+    "url": "https://app-uploads.krea.ai/wan-videos/08006647-1c55-4823-b35d-e40d57c66bf8.mp4",
+    "kind": "video",
+    "state": "ok",
+    "http": "206",
+    "repo": null
+   },
+   {
+    "url": "https://app-uploads.krea.ai/wan-videos/91fd9932-6194-4d58-ada0-955692853019.mp4",
+    "kind": "video",
+    "state": "ok",
+    "http": "206",
+    "repo": null
+   },
+   {
+    "url": "https://app-uploads.krea.ai/wan-videos/95fb3282-d7cf-448e-9202-ef0662541c83.mp4",
+    "kind": "video",
+    "state": "ok",
+    "http": "206",
+    "repo": null
+   }
+  ]
+ }
+}

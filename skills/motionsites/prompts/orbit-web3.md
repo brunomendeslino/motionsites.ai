@@ -2,7 +2,8 @@
 
 - slug: `orbit-web3`
 - scope: hero
-- source: free + pro (category "Web3")
+- theme: dark
+- source folder in the original repo: free + pro (category "Web3")
 - summary: Dark cinematic Web3 hero. Deep green-black (150 20% 5%) with warm off-white, Instrument Serif for everything.
 
 Everything below the line is the original prompt, verbatim.

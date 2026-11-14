@@ -2,7 +2,8 @@
 
 - slug: `codercrest`
 - scope: hero
-- source: pro (category "SaaS")
+- theme: dark
+- source folder in the original repo: pro (category "SaaS")
 - summary: Single HeroSection.tsx component: 100vh pure black, three-line heading with grey gradient text and a green accent (#27F3A9).
 
 Everything below the line is the original prompt, verbatim.

@@ -2,7 +2,8 @@
 
 - slug: `impressive-hero`
 - scope: hero
-- source: pro (category "Hero Section")
+- theme: dark
+- source folder in the original repo: pro (category "Hero Section")
 - summary: Full-screen video hero with liquid-glass navbar, character-by-character heading animation and bottom tagline pill. Helvetica Neue, no animation or icon libraries.
 
 Everything below the line is the original prompt, verbatim.

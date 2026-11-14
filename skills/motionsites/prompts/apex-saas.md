@@ -2,7 +2,8 @@
 
 - slug: `apex-saas`
 - scope: hero
-- source: free + pro (category "SaaS")
+- theme: dark
+- source folder in the original repo: free + pro (category "SaaS")
 - summary: Dark SaaS hero in 3 parts: floating glass navbar, hero, social-proof block with background video. Purple-black (260 87% 3%), Geist Sans.
 
 Everything below the line is the original prompt, verbatim.

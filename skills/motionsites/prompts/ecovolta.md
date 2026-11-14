@@ -2,7 +2,8 @@
 
 - slug: `ecovolta`
 - scope: hero
-- source: pro (category "Hero Section")
+- theme: light
+- source folder in the original repo: pro (category "Hero Section")
 - summary: Renewable-energy hero "EcoVolta", h-screen with no scroll. Cream #F5F3EE over a fixed full-page video, Inter, Framer Motion.
 
 Everything below the line is the original prompt, verbatim.

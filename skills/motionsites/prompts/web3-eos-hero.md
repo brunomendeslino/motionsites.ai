@@ -2,7 +2,8 @@
 
 - slug: `web3-eos-hero`
 - scope: hero
-- source: free + pro (category "Web3")
+- theme: dark
+- source folder in the original repo: free + pro (category "Web3")
 - summary: Web3 hero. Pure black, video under a 50% overlay, General Sans, waitlist pill button.
 
 Everything below the line is the original prompt, verbatim.

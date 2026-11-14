@@ -2,7 +2,8 @@
 
 - slug: `liquid-glass-agency`
 - scope: page
-- source: pro (category "Landing Page")
+- theme: dark
+- source folder in the original repo: pro (category "Landing Page")
 - summary: AI web-design agency landing, 9 sections: floating navbar, hero, how-it-works, alternating feature rows, feature grid, stats, testimonials, CTA + footer. Black, liquid glass, Instrument Serif italic + Barlow, BlurText word reveal.
 
 Everything below the line is the original prompt, verbatim.

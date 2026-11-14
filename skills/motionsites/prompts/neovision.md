@@ -2,7 +2,8 @@
 
 - slug: `neovision`
 - scope: page
-- source: free + pro (category "Landing Page")
+- theme: mixed (light hero, dark sections)
+- source folder in the original repo: free + pro (category "Landing Page")
 - summary: Futuristic 3-section landing: light hero (#FBFDFD) with video on the right half, dark About, Insights. System fonts.
 
 Everything below the line is the original prompt, verbatim.

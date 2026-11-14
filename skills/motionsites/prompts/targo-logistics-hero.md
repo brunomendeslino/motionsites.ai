@@ -2,7 +2,8 @@
 
 - slug: `targo-logistics-hero`
 - scope: hero
-- source: free + pro (category "SaaS")
+- theme: dark
+- source folder in the original repo: free + pro (category "SaaS")
 - summary: Logistics hero "targo". Black + brand red #EE3F2C, bold uppercase Rubik, clipped-corner buttons, consultation card bottom-left.
 
 Everything below the line is the original prompt, verbatim.

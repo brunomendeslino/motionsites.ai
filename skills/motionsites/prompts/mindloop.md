@@ -2,7 +2,8 @@
 
 - slug: `mindloop`
 - scope: hero
-- source: free + pro (category "SaaS")
+- theme: dark
+- source folder in the original repo: free + pro (category "SaaS")
 - summary: Full-screen video hero, dark with white text, Instrument Serif. Headline "Focus in a Distracted World".
 
 Everything below the line is the original prompt, verbatim.
