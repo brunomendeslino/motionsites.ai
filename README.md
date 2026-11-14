@@ -181,9 +181,20 @@ Below is a categorized list of all designs included in this library. Click on an
 
 ---
 
+## 🤖 Claude Skill
+
+The library is also packaged as a Claude skill in [`skills/motionsites/`](skills/motionsites/SKILL.md): 84 deduplicated templates, a catalog with media status, shared design recipes and an asset checker. Claude picks a template, adapts it to your brand and stack, and replaces dead media.
+
+- **Claude apps (web / desktop)**: download [`dist/motionsites.zip`](dist/motionsites.zip), then **Customize > Skills > + > Create skill > Upload a skill**. Code execution must be enabled (Settings > Capabilities).
+- **Claude Code**: copy `skills/motionsites` to `~/.claude/skills/motionsites` (all projects) or `.claude/skills/motionsites` (one project).
+
+---
+
 ## 📂 Repository Structure
 
 ```text
+├── skills/motionsites/  # Claude skill built from the prompts below
+├── dist/                # Packaged skill (motionsites.zip)
 ├── prompts/          # 65 documented design prompts
 ├── assets/
 │   ├── videos/       # Converted MP4 video assets
